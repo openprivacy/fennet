@@ -1,0 +1,13 @@
+---
+layout: blog
+title: EEKim Speaks Out on Free Identity
+date: 2005-08-17 20:17:14.000000000 -04:00
+categories:
+- blog
+permalink: "/blog/2005/08/17/eekim-speaks-out-on-free-identity/"
+excerpt: Eugene Kim writes about the social, as well as the technical need for <a
+  href="http://www.eekim.com/blog/2005/08/13#freeidentity"><i>Free Identity</i></a>.  Check
+  it out.
+---
+
+Eugene Kim writes about the social, as well as the technical need for <a href="http://www.eekim.com/blog/2005/08/13#freeidentity"><i>Free Identity</i></a>.  Check it out.

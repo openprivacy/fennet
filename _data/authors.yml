@@ -1,0 +1,715 @@
+---
+- name: ''
+  bio: ''
+  slug: ''
+- name: Thomas Jefferson
+  bio: ''
+  slug: thomas-jefferson
+- name: Ernest Hemingway
+  bio: ''
+  slug: ernest-hemingway
+- name: Nicholas Negroponte
+  bio: ''
+  slug: nicholas-negroponte
+- name: William Gaddis, JR
+  bio: ''
+  slug: william-gaddis-jr
+- name: Bruce Sterling
+  bio: ''
+  slug: bruce-sterling
+- name: Humpty Dumpty
+  bio: ''
+  slug: humpty-dumpty
+- name: the Fourth Amendment to the U.S. Constitution
+  bio: ''
+  slug: the-fourth-amendment-to-the-u-s-constitution
+- name: Benjamin Franklin
+  bio: ''
+  slug: benjamin-franklin
+- name: James Madison
+  bio: ''
+  slug: james-madison
+- name: Noam Chomsky
+  bio: ''
+  slug: noam-chomsky
+- name: Hugh Daniels
+  bio: ''
+  slug: hugh-daniels
+- name: Richard Childers
+  bio: ''
+  slug: richard-childers
+- name: Molly Ivans
+  bio: ''
+  slug: molly-ivans
+- name: H. L. Mencken
+  bio: ''
+  slug: h-l-mencken
+- name: George Bernard Shaw
+  bio: ''
+  slug: george-bernard-shaw
+- name: Friedrich Nietzsche
+  bio: ''
+  slug: friedrich-nietzsche
+- name: Frank Lloyd Wright
+  bio: ''
+  slug: frank-lloyd-wright
+- name: Gene Roddenberry
+  bio: ''
+  slug: gene-roddenberry
+- name: Isaac Asimov
+  bio: ''
+  slug: isaac-asimov
+- name: Samuel Clemens (Mark Twain)
+  bio: ''
+  slug: samuel-clemens-mark-twain-
+- name: Seneca the Younger
+  bio: ''
+  slug: seneca-the-younger
+- name: Anonymous
+  bio: ''
+  slug: anonymous
+- name: Woody Allen
+  bio: ''
+  slug: woody-allen
+- name: Edward Abbey
+  bio: ''
+  slug: edward-abbey
+- name: Steven Weinberg
+  bio: ''
+  slug: steven-weinberg
+- name: Doug McLeod
+  bio: ''
+  slug: doug-mcleod
+- name: Abu’l‐Ala al Ma’arri
+  bio: ''
+  slug: abu-l-ala-al-ma-arri
+- name: Susan B. Anthony
+  bio: ''
+  slug: susan-b-anthony
+- name: Delos B. McKown
+  bio: ''
+  slug: delos-b-mckown
+- name: Francis Bacon
+  bio: ''
+  slug: francis-bacon
+- name: Richard Dawkins
+  bio: ''
+  slug: richard-dawkins
+- name: Karen Armstrong
+  bio: ''
+  slug: karen-armstrong
+- name: Ludwig Feuerbach
+  bio: ''
+  slug: ludwig-feuerbach
+- name: Bill Hicks
+  bio: ''
+  slug: bill-hicks
+- name: Matthew Arnold
+  bio: ''
+  slug: matthew-arnold
+- name: Christopher Hitchens
+  bio: ''
+  slug: christopher-hitchens
+- name: George W. Foote
+  bio: ''
+  slug: george-w-foote
+- name: Stephen Roberts
+  bio: ''
+  slug: stephen-roberts
+- name: Richard A. Weatherwax
+  bio: ''
+  slug: richard-a-weatherwax
+- name: Steve Buscemi (From the movie “The Island”)
+  bio: ''
+  slug: steve-buscemi-from-the-movie-the-island-
+- name: Rick Reynolds
+  bio: ''
+  slug: rick-reynolds
+- name: Don Hirschberg
+  bio: ''
+  slug: don-hirschberg
+- name: Bryan Emmanuel Gutierrez
+  bio: ''
+  slug: bryan-emmanuel-gutierrez
+- name: Geoff Mather
+  bio: ''
+  slug: geoff-mather
+- name: Mark Twain
+  bio: ''
+  slug: mark-twain
+- name: Voltaire
+  bio: ''
+  slug: voltaire
+- name: Bertrand Russell
+  bio: ''
+  slug: bertrand-russell
+- name: Epicurus
+  bio: ''
+  slug: epicurus
+- name: Dan Fouts
+  bio: ''
+  slug: dan-fouts
+- name: David Stevens
+  bio: ''
+  slug: david-stevens
+- name: Robert A Heinlein
+  bio: ''
+  slug: robert-a-heinlein
+- name: Douglas Adams
+  bio: ''
+  slug: douglas-adams
+- name: William Drummond
+  bio: ''
+  slug: william-drummond
+- name: Steven Colbert
+  bio: ''
+  slug: steven-colbert
+- name: Carlespie Mary Alice McKinney
+  bio: ''
+  slug: carlespie-mary-alice-mckinney
+- name: Sigmund Freud
+  bio: ''
+  slug: sigmund-freud
+- name: Robert G. Ingersoll
+  bio: ''
+  slug: robert-g-ingersoll
+- name: Giulian Buzila
+  bio: ''
+  slug: giulian-buzila
+- name: George Carlin
+  bio: ''
+  slug: george-carlin
+- name: James Morrow
+  bio: ''
+  slug: james-morrow
+- name: John Buchan
+  bio: ''
+  slug: john-buchan
+- name: David Viaene
+  bio: ''
+  slug: david-viaene
+- name: Alexandre Dumas
+  bio: ''
+  slug: alexandre-dumas
+- name: Sam Harris
+  bio: ''
+  slug: sam-harris
+- name: Clarence Darrow
+  bio: ''
+  slug: clarence-darrow
+- name: Annie Wood Besant
+  bio: ''
+  slug: annie-wood-besant
+- name: Mike Fuhrman
+  bio: ''
+  slug: mike-fuhrman
+- name: Frater Ravus
+  bio: ''
+  slug: frater-ravus
+- name: Penn Jillette
+  bio: ''
+  slug: penn-jillette
+- name: Chapman Cohen
+  bio: ''
+  slug: chapman-cohen
+- name: Robert Pirsig
+  bio: ''
+  slug: robert-pirsig
+- name: Azura Skye
+  bio: ''
+  slug: azura-skye
+- name: Jim Crawford
+  bio: ''
+  slug: jim-crawford
+- name: Penn and Teller
+  bio: ''
+  slug: penn-and-teller
+- name: Mark Fairclough
+  bio: ''
+  slug: mark-fairclough
+- name: Karl Marx
+  bio: ''
+  slug: karl-marx
+- name: Ryan Hanson
+  bio: ''
+  slug: ryan-hanson
+- name: Ronnie Snow
+  bio: ''
+  slug: ronnie-snow
+- name: Daniel Boorstin
+  bio: ''
+  slug: daniel-boorstin
+- name: Thomas Edison
+  bio: ''
+  slug: thomas-edison
+- name: David J. Constable
+  bio: ''
+  slug: david-j-constable
+- name: Alexander Loutsis
+  bio: ''
+  slug: alexander-loutsis
+- name: Jack Pritchard
+  bio: ''
+  slug: jack-pritchard
+- name: Steven Crocker
+  bio: ''
+  slug: steven-crocker
+- name: George Santayana
+  bio: ''
+  slug: george-santayana
+- name: Seneca, 65 AD
+  bio: ''
+  slug: seneca-65-ad
+- name: Dave Barry
+  bio: ''
+  slug: dave-barry
+- name: Frank Zappa
+  bio: ''
+  slug: frank-zappa
+- name: John Kenneth Galbraith
+  bio: ''
+  slug: john-kenneth-galbraith
+- name: Edmund Burke
+  bio: ''
+  slug: edmund-burke
+- name: Dr. Martin Luther King, Jr.
+  bio: ''
+  slug: dr-martin-luther-king-jr-
+- name: Abraham Lincoln
+  bio: ''
+  slug: abraham-lincoln
+- name: C.A. Beard
+  bio: ''
+  slug: c-a-beard
+- name: Lyndon Baines Johnson
+  bio: ''
+  slug: lyndon-baines-johnson
+- name: Alexander Tyler
+  bio: ''
+  slug: alexander-tyler
+- name: Mahatma Gandhi
+  bio: ''
+  slug: mahatma-gandhi
+- name: John Lennon
+  bio: ''
+  slug: john-lennon
+- name: sign at the SF peace rally, 1/18/2003
+  bio: ''
+  slug: sign-at-the-sf-peace-rally-1-18-2003
+- name: Joseph Campbell
+  bio: ''
+  slug: joseph-campbell
+- name: Thich Nhat Hanh
+  bio: ''
+  slug: thich-nhat-hanh
+- name: A.J. Muste
+  bio: ''
+  slug: a-j-muste
+- name: Albert Einstein
+  bio: ''
+  slug: albert-einstein
+- name: Ted Turner
+  bio: ''
+  slug: ted-turner
+- name: Nineteenth Century Quaker Benediction Traditionally Spoken at Christmas
+  bio: ''
+  slug: nineteenth-century-quaker-benediction-traditionally-spoken-at-christmas
+- name: Esther Dyson
+  bio: ''
+  slug: esther-dyson
+- name: Eric Schmidt
+  bio: ''
+  slug: eric-schmidt
+- name: Matt Santos
+  bio: ''
+  slug: matt-santos
+- name: Rabindranath Tagore
+  bio: ''
+  slug: rabindranath-tagore
+- name: Ralph Waldo Emerson
+  bio: ''
+  slug: ralph-waldo-emerson
+- name: Jonathan Swift
+  bio: ''
+  slug: jonathan-swift
+- name: Joseph Chasing Horse
+  bio: ''
+  slug: joseph-chasing-horse
+- name: Peter Rengel
+  bio: ''
+  slug: peter-rengel
+- name: Helen Keller
+  bio: ''
+  slug: helen-keller
+- name: Pogo
+  bio: ''
+  slug: pogo
+- name: Ernestine Ulmer
+  bio: ''
+  slug: ernestine-ulmer
+- name: Paul Rudnick
+  bio: ''
+  slug: paul-rudnick
+- name: Barry Brilliant
+  bio: ''
+  slug: barry-brilliant
+- name: Wavy Gravy
+  bio: ''
+  slug: wavy-gravy
+- name: activist saying about insecure communication
+  bio: ''
+  slug: activist-saying-about-insecure-communication
+- name: Susan Sarandon
+  bio: ''
+  slug: susan-sarandon
+- name: Marianne Williamson
+  bio: ''
+  slug: marianne-williamson
+- name: Rosellen Brown
+  bio: ''
+  slug: rosellen-brown
+- name: Charles Dickens
+  bio: ''
+  slug: charles-dickens
+- name: Dalai Lama
+  bio: ''
+  slug: dalai-lama
+- name: John Muir
+  bio: ''
+  slug: john-muir
+- name: Wayne Dyer
+  bio: ''
+  slug: wayne-dyer
+- name: Peter Pan
+  bio: ''
+  slug: peter-pan
+- name: Yogi Berra
+  bio: ''
+  slug: yogi-berra
+- name: Robert A. Heinlein
+  bio: ''
+  slug: robert-a-heinlein
+- name: Maslow
+  bio: ''
+  slug: maslow
+- name: Laurie Anderson
+  bio: ''
+  slug: laurie-anderson
+- name: Black Elk
+  bio: ''
+  slug: black-elk
+- name: Cowboy Neal at the Wheel
+  bio: ''
+  slug: cowboy-neal-at-the-wheel
+- name: Galileo
+  bio: ''
+  slug: galileo
+- name: Santayana
+  bio: ''
+  slug: santayana
+- name: Chinese proverb
+  bio: ''
+  slug: chinese-proverb
+- name: Cindy Lou Cosgrove
+  bio: ''
+  slug: cindy-lou-cosgrove
+- name: Introduction to <i>A Course In Miracles</i>
+  bio: ''
+  slug: introduction-to-i-a-course-in-miracles-i-
+- name: Harry Truman
+  bio: ''
+  slug: harry-truman
+- name: Jerry Garcia
+  bio: ''
+  slug: jerry-garcia
+- name: Horace Mann
+  bio: ''
+  slug: horace-mann
+- name: Homer Simpson
+  bio: ''
+  slug: homer-simpson
+- name: Jean-Luc Picard
+  bio: ''
+  slug: jean-luc-picard
+- name: Han Solo
+  bio: ''
+  slug: han-solo
+- name: Sufi saying
+  bio: ''
+  slug: sufi-saying
+- name: Solomon Short
+  bio: ''
+  slug: solomon-short
+- name: John Perry Barlow
+  bio: ''
+  slug: john-perry-barlow
+- name: Dana Gould
+  bio: ''
+  slug: dana-gould
+- name: Steinbach's Guideline for Systems Programming
+  bio: ''
+  slug: steinbach-s-guideline-for-systems-programming
+- name: Alan Perlis
+  bio: ''
+  slug: alan-perlis
+- name: Raymond Chandler
+  bio: ''
+  slug: raymond-chandler
+- name: Install Notes, NetBSD 0.8, 1993
+  bio: ''
+  slug: install-notes-netbsd-0-8-1993
+- name: Nathaniel Borenstein
+  bio: ''
+  slug: nathaniel-borenstein
+- name: Jeremy S. Anderson
+  bio: ''
+  slug: jeremy-s-anderson
+- name: Karen Hargrove
+  bio: ''
+  slug: karen-hargrove
+- name: RMS
+  bio: ''
+  slug: rms
+- name: Grand Nagus Gint
+  bio: ''
+  slug: grand-nagus-gint
+- name: Steve Case
+  bio: ''
+  slug: steve-case
+- name: Rich Cook
+  bio: ''
+  slug: rich-cook
+- name: Carl Hewitt
+  bio: ''
+  slug: carl-hewitt
+- name: Pablo Picasso
+  bio: ''
+  slug: pablo-picasso
+- name: blue_beetle
+  bio: ''
+  slug: blue-beetle
+- name: "<i>The Helios Operating System</i>, Prentice-Hall, 1989"
+  bio: ''
+  slug: "-i-the-helios-operating-system-i-prentice-hall-1989"
+- name: Dave Morrison
+  bio: ''
+  slug: dave-morrison
+- name: Steve Wozniak
+  bio: ''
+  slug: steve-wozniak
+- name: Werner Von Braun
+  bio: ''
+  slug: werner-von-braun
+- name: comment from the <i>portable C-compiler</i>
+  bio: ''
+  slug: comment-from-the-i-portable-c-compiler-i-
+- name: Dr. Marshall T. Rose
+  bio: ''
+  slug: dr-marshall-t-rose
+- name: Marvin Minsky
+  bio: ''
+  slug: marvin-minsky
+- name: Arthur C. Clarke
+  bio: ''
+  slug: arthur-c-clarke
+- name: Charles Forsythe
+  bio: ''
+  slug: charles-forsythe
+- name: The Laws of Physics
+  bio: ''
+  slug: the-laws-of-physics
+- name: Stan Dale
+  bio: ''
+  slug: stan-dale
+- name: someone on the WELL
+  bio: ''
+  slug: someone-on-the-well
+- name: Riane Eisler
+  bio: ''
+  slug: riane-eisler
+- name: A Course in Miracles
+  bio: ''
+  slug: a-course-in-miracles
+- name: Van Gogh
+  bio: ''
+  slug: van-gogh
+- name: Alice Walker
+  bio: ''
+  slug: alice-walker
+- name: John Pettitt
+  bio: ''
+  slug: john-pettitt
+- name: Bruce Cockburn
+  bio: ''
+  slug: bruce-cockburn
+- name: Meredith Willson, 1948
+  bio: ''
+  slug: meredith-willson-1948
+- name: Playboy, January 1983
+  bio: ''
+  slug: playboy-january-1983
+- name: Anonymous (me?)
+  bio: ''
+  slug: anonymous-me-
+- name: Flash Gordon
+  bio: ''
+  slug: flash-gordon
+- name: Andrew Jackson
+  bio: ''
+  slug: andrew-jackson
+- name: Jack Handey
+  bio: ''
+  slug: jack-handey
+- name: Egyptian Book of The Dead
+  bio: ''
+  slug: egyptian-book-of-the-dead
+- name: In Like Flint, 1967
+  bio: ''
+  slug: in-like-flint-1967
+- name: from <i>Repo Man</i>
+  bio: ''
+  slug: from-i-repo-man-i-
+- name: Traditional
+  bio: ''
+  slug: traditional
+- name: Hume
+  bio: ''
+  slug: hume
+- name: Unknown
+  bio: ''
+  slug: unknown
+- name: Jimi Hendrix
+  bio: ''
+  slug: jimi-hendrix
+- name: Margaret Mead
+  bio: ''
+  slug: margaret-mead
+- name: Paxus Calta
+  bio: ''
+  slug: paxus-calta
+- name: from the movie <i>Sneakers</i>
+  bio: ''
+  slug: from-the-movie-i-sneakers-i-
+- name: Tom Stoppard
+  bio: ''
+  slug: tom-stoppard
+- name: the Port Huron Statement, 11-June-1962, Students for a Democratic Society
+  bio: ''
+  slug: the-port-huron-statement-11-june-1962-students-for-a-democratic-society
+- name: Sandy Shaw
+  bio: ''
+  slug: sandy-shaw
+- name: Joshua
+  bio: ''
+  slug: joshua
+- name: Mike Godwin
+  bio: ''
+  slug: mike-godwin
+- name: Martin Niemoller
+  bio: ''
+  slug: martin-niemoller
+- name: William O. Douglas
+  bio: ''
+  slug: william-o-douglas
+- name: Bob Bickford
+  bio: ''
+  slug: bob-bickford
+- name: Robert Wilensky
+  bio: ''
+  slug: robert-wilensky
+- name: Paulo Freire
+  bio: ''
+  slug: paulo-freire
+- name: Howard Dean
+  bio: ''
+  slug: howard-dean
+- name: The Economist
+  bio: ''
+  slug: the-economist
+- name: Bill Lockyer
+  bio: ''
+  slug: bill-lockyer
+- name: Paul Kienitz
+  bio: ''
+  slug: paul-kienitz
+- name: August Spies
+  bio: ''
+  slug: august-spies
+- name: Sam J. Ervin, Jr.
+  bio: ''
+  slug: sam-j-ervin-jr-
+- name: Wilma Mankiller
+  bio: ''
+  slug: wilma-mankiller
+- name: Martha Graham
+  bio: ''
+  slug: martha-graham
+- name: Socrates
+  bio: ''
+  slug: socrates
+- name: Robert F. Kennedy
+  bio: ''
+  slug: robert-f-kennedy
+- name: Richard Bach
+  bio: ''
+  slug: richard-bach
+- name: Nanao Sakaki
+  bio: ''
+  slug: nanao-sakaki
+- name: David Bohm and F. David Peat
+  bio: ''
+  slug: david-bohm-and-f-david-peat
+- name: Moe Zimmerberg
+  bio: ''
+  slug: moe-zimmerberg
+- name: President Jimmy Carter
+  bio: ''
+  slug: president-jimmy-carter
+- name: Timothy Leary
+  bio: ''
+  slug: timothy-leary
+- name: Partnership for a Drug Free America
+  bio: ''
+  slug: partnership-for-a-drug-free-america
+- name: Albert Hofmann
+  bio: ''
+  slug: albert-hofmann
+- name: G.K. Chesterton
+  bio: ''
+  slug: g-k-chesterton
+- name: Mario Lemieux
+  bio: ''
+  slug: mario-lemieux
+- name: Troy Polamalu
+  bio: ''
+  slug: troy-polamalu
+- name: FORTRAN manual
+  bio: ''
+  slug: fortran-manual
+- name: Dwight D. Eisenhower
+  bio: ''
+  slug: dwight-d-eisenhower
+- name: C. A. R. Hoare
+  bio: ''
+  slug: c-a-r-hoare
+- name: Will Rogers  (1879 - 1935)
+  bio: ''
+  slug: will-rogers-1879-1935-
+- name: 'Edward Dowling '
+  bio: ''
+  slug: edward-dowling
+- name: John Gilmore
+  bio: ''
+  slug: john-gilmore
+- name: Dahlia
+  bio: ''
+  slug: dahlia
+- name: Judy Raiten
+  bio: ''
+  slug: judy-raiten
+- name: Native American Proverb
+  bio: ''
+  slug: native-american-proverb
+- name: Will Rogers
+  bio: ''
+  slug: will-rogers

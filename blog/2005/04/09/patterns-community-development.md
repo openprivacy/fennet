@@ -1,0 +1,5 @@
+---
+layout: refresh
+permalink: blog/2005/04/09/patterns-community-development/
+refresh_to_post_id: /identity/2005/04/09/patterns-of-community-development
+---

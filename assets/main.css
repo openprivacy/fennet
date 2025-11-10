@@ -1,0 +1,16 @@
+.quote-post blockquote {
+  font-style: italic;
+  border-left: 4px solid #ccc;
+  padding-left: 1em;
+  color: #333;
+}
+
+.quote-post .author {
+  font-weight: bold;
+  margin-top: 0.5em;
+}
+
+.quote-post .citation {
+  font-size: 0.9em;
+  color: #666;
+}

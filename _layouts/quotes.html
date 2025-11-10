@@ -1,0 +1,7 @@
+<blockquote>
+  {{ page.content | markdownify }}
+</blockquote>
+{% if page.author %}
+  {% assign author = site.data.authors[page.author] %}
+  <p>— {{ author.name }}</p>
+{% endif %}

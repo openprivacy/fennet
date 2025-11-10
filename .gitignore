@@ -1,0 +1,28 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependencies
+vendor/
+bundle/
+Gemfile.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ruby / Bundler stuff
+/.bundle/
+/pkg/
+/log/
+/tmp/
+/cache/
+
+# Node/npm junk (in case you use JS tooling)
+node_modules/
+
+# Local test / config files
+.env
+*.local
