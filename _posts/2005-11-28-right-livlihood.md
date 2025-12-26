@@ -2,15 +2,13 @@
 layout: blog
 title: Right Livlihood
 date: 2005-11-28 00:12:47.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2005/11/28/right-livlihood/"
-excerpt: |-
+teaser: |-
   <p>
 
   I work with <a href="http://www.civicactions.com/">CivicActions</a>, and one of the best things about this gig is the lifestyle that it allows me to enjoy.  CivicActions is a small but growing band of technology revolutionaries writing free and open source code for progressive organizations and political campaigns.
+categories:
+- politics
 ---
-
 <p>
 
 I work with <a href="http://www.civicactions.com/">CivicActions</a>, and one of the best things about this gig is the lifestyle that it allows me to enjoy.  CivicActions is a small but growing band of technology revolutionaries writing free and open source code for progressive organizations and political campaigns.  We're pulling in more work than we can handle, so I am pretty constantly overwhelmed (we could use <a href="http://drupal.org/node/36151">good developers</a> and project managers) but though I often don't get enough sleep, I love what we're doing and firmly believe that we're headed down a good path.

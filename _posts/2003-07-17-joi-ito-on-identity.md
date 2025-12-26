@@ -2,18 +2,16 @@
 layout: blog
 title: Joi Ito on Identity
 date: 2003-07-17 10:02:20.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2003/07/17/joi-ito-on-identity/"
-excerpt: "In a recent <a href=\"http://joi.ito.com/archives/2003/07/16/im_not_joi_ito_thats_just_my_name.html\">
+teaser: "In a recent <a href=\"http://joi.ito.com/archives/2003/07/16/im_not_joi_ito_thats_just_my_name.html\">
   blog posting</a>, Joi Ito wrote:\r\n\r\n    <blockquote>\r\n\r\nYou don't care if
   my real name is Joi Ito or where I live exactly.  As a blog reader, you probably
   care if it is the same blogger that has posted all of the other blog entries on
   this blog.\r\n\r\n    </blockquote>\r\n\r\nPrecisely - for reputation to accrue
   and be trustable, all you need to know is that it is the same identity/actor as
   the last time."
+categories:
+- identity
 ---
-
 In a recent <a href="http://joi.ito.com/archives/2003/07/16/im_not_joi_ito_thats_just_my_name.html"> blog posting</a>, Joi Ito wrote:
 
     <blockquote>
@@ -29,4 +27,3 @@ The identity framework I'm currently working on may not have any strong authenti
 BTW: I've always talked about an orthogonal set of identities to those very practical ones posited by Eric Hughes, namely: my family ID, my work ID, and the ID that I don't tell the others about.
 
 PS: this is my first attempt at at trackback...
-

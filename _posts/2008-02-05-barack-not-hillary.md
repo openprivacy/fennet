@@ -2,17 +2,15 @@
 layout: blog
 title: 'Barack, not Hillary '
 date: 2008-02-05 04:04:32.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2008/02/05/barack-not-hillary/"
-excerpt: "Chances are that if you live in the US, you might be voting February 5th.
+teaser: "Chances are that if you live in the US, you might be voting February 5th.
   If you are undecided, or if you are leaning toward a candidate who is not Barack
   Obama, please read the following.\r\n\r\nFor those of you leaning toward Hillary
   Clinton: She is completely disqualified for so many reasons that I will have to
   give just the highlights here.  I'll start with a practical, tactical and strategic
   argument for my fellow Democrats and independents."
+categories:
+- politics
 ---
-
 Chances are that if you live in the US, you might be voting February 5th. If you are undecided, or if you are leaning toward a candidate who is not Barack Obama, please read the following.
 
 For those of you leaning toward Hillary Clinton: She is completely disqualified for so many reasons that I will have to give just the highlights here.  I'll start with a practical, tactical and strategic argument for my fellow Democrats and independents. All due respect to Senator Clinton, but please understand the extent to which a nominee who is so bitterly polarizing and divisive will put us at a disadvantage in the general election. There are two reasons for this. First, as Richard Bond, former chair of the RNC indicated in the NYTimes last week, nothing will unite a currently disjointed Republican party and inspire Republicans to take up arms like having Hillary Clinton as an opponent. Letâ€™s not unite their party for them. Obama had four times as many Republicans caucusing for him in Iowa. Read Peter Wehnerâ€™s article Why Republicans Like Obama, Washington Post 2/3.

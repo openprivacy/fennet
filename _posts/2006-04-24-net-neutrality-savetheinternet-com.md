@@ -2,17 +2,15 @@
 layout: blog
 title: 'Net Neutrality: SaveTheInternet.com'
 date: 2006-04-24 20:41:17.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2006/04/24/net-neutrality-savetheinternet-com/"
-excerpt: |-
+teaser: |-
   This is chilling: decisions being made now will shape the future of the Internet for a generation. Before long, all media &amp;mdash TV, phone and the Web &mdash; will come to your home via the same broadband connection. The dispute over net neutrality is about who'll control access to new and emerging technologies.
 
   From <a href="http://SaveTheInternet.com">http://SaveTheInternet.com</a>:
 
   <blockquote>Congress is pushing a law that would abandon Network Neutrality, the Internet's First Amendment.
+categories:
+- politics
 ---
-
 This is chilling: decisions being made now will shape the future of the Internet for a generation. Before long, all media &amp;mdash TV, phone and the Web &mdash; will come to your home via the same broadband connection. The dispute over net neutrality is about who'll control access to new and emerging technologies.
 
 From <a href="http://SaveTheInternet.com">http://SaveTheInternet.com</a>:

@@ -2,14 +2,12 @@
 layout: blog
 title: Identity Value Propositions
 date: 2003-07-10 02:44:23.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2003/07/10/identity-value-propositions/"
-excerpt: In talking to colleagues about how one can market their data successfully
+teaser: In talking to colleagues about how one can market their data successfully
   and still remain in complete control of it, I see that there are areas that could
   use some clarification, or at least some use cases.
+categories:
+- identity
 ---
-
 In talking to colleagues about how one can market their data successfully and still remain in complete control of it, I see that there are areas that could use some clarification, or at least some use cases.  Here are a couple of example areas designed to show how money can be made in an customer-centric <a href="http://www.identitycommons.net/">Identity Commons</a> profile economy.
 
 <b>Safeway</b>
@@ -55,4 +53,3 @@ For more on this form of "anonymous digital bearer instruments", see e.g., <a hr
 (These ideas are condensed from the <a href="http://www.broadcatch.com/"> Broadcatch</a> <a href="http://www.broadcatch.com/cdml.shtml">CDML</a> and <a href="http://www.broadcatch.com/lumeria/">Lumeria</a> <a href="http://www.broadcatch.com/lumeria/paper1/superprofile8.shtml"> SuperProfile</a> concepts.)
 
 Thought for the day: The value of customer data is immense, and actually <i>increases</i> when in the hands of the customer.
-

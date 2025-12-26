@@ -2,13 +2,11 @@
 layout: blog
 title: User-Centric Identity coming soon to Drupal
 date: 2006-07-27 12:51:08.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2006/07/27/user-centric-identity-coming-soon-to-drupal/"
-excerpt: When you log into a community site, say LinkedIn or Tribe, you provide them
+teaser: When you log into a community site, say LinkedIn or Tribe, you provide them
   with information about you which they now control.
+categories:
+- identity
 ---
-
 When you log into a community site, say LinkedIn or Tribe, you provide them with information about you which they now control.  This is unfortunate because 1) if you want to log into another site, you have to enter similar information again (if you belong to more than one social networking site, you know what I mean!) and 2) if (say) your email address changes, you've got to go and change it at every place you gave it to, or else risk missing the messages that you signed up for (which is bad for both parties!).
 
 <em>User-centric identity</em> enables you to be the master of your online digital identity.  Once you have that control, the tables turn and instead of giving other sites your data (which can rapidly become obsolete) you instead give them permission to access certain parts of your personally maintained data.  As long as you give them access to e.g. your email address, any time that you change it (in just one place) all the sites that have "subscribed" to your email address will get updated.  Further, as you build depth as (say) LinkedIn and later want to bring some of your "reputation" over to Tribe, it's as easy as giving them the right to view whatever portions of your "profile" you choose.  And in case you're wondering, there are some simple procedures, a developing set of "identity rights agreements" (similar in concept to the Creative Commons copyrights) and some fancy mathematical proofs that enable you to protect your privacy and security while doing all this - far better than it is protected now by all those sites storing it "for you".

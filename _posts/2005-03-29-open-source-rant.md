@@ -2,16 +2,14 @@
 layout: blog
 title: Open source rant
 date: 2005-03-29 12:09:12.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2005/03/29/open-source-rant/"
-excerpt: "The following is a rant on Open Source vs. Free Software, with Java as the
+teaser: "The following is a rant on Open Source vs. Free Software, with Java as the
   protagonist.  While I am pragmatic and appreciate what Java offers (fast development,
   powerful tools, strong support) I have also voiced at times my concerns over its
   use, particularly within the non-profit and NGO markets that we have been looking
   at pursuing.\r\n\r"
+categories:
+- foss
 ---
-
 The following is a rant on Open Source vs. Free Software, with Java as the protagonist.  While I am pragmatic and appreciate what Java offers (fast development, powerful tools, strong support) I have also voiced at times my concerns over its use, particularly within the non-profit and NGO markets that we have been looking at pursuing.
 
 There are many sides to the issue, and I don't really want this to become a long thread with arguments and counter-arguments - find those on any open source and/or free software developers forum.  But as it is a difficult topic to understand, I found <a href="http://software.newsforge.com/article.pl?sid=05/03/22/204244">this article</a> [Newsforge] provides a fair overview of a particular scenario, and decided to share it with the goal of shedding some more light upon a subtle yet important issue.

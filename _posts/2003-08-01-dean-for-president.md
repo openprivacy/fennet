@@ -2,15 +2,13 @@
 layout: blog
 title: Dean for President
 date: 2003-08-01 10:24:15.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2003/08/01/dean-for-president/"
-excerpt: I just saw Howard Dean speak, and though I've liked him - and have planned
+teaser: I just saw Howard Dean speak, and though I've liked him - and have planned
   to vote for him - for some time now, I'm finally jazzed enough to start telling
   people about him.  He spoke on the economy, foreign policy and education, and then
   answered questions.
+categories:
+- politics
 ---
-
 I just saw Howard Dean speak, and though I've liked him - and have planned to vote for him - for some time now, I'm finally jazzed enough to start telling people about him.  He spoke on the economy, foreign policy and education, and then answered questions.  No notes, all off-the-cuff, and he was well poised, had the facts, and really answered questions put to him.
 
 I'm sorry I don't have a transcript, as I can't remember his exact words, except for one quip about Bush: he said that in Texas, they call guys like Bush "lots of hat but no cattle."
@@ -20,4 +18,3 @@ I've just added <a href="http://www.blogforamerica.com/">Blog for Dean</a> to my
 He said that though Bush would probably out-spend him, but that he planned to win by bringing 3 million new voters to the polls - that's where we (you and me) come in.  Tell your friends, check out the the <a href="http://dean2004.meetup.com/">meetups</a>, and (again) tell your friends.
 
 Regime change begins at home!
-

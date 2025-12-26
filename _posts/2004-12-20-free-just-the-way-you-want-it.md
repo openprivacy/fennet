@@ -2,17 +2,15 @@
 layout: blog
 title: Free, just the way you want it
 date: 2004-12-20 23:56:14.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2004/12/20/free-just-the-way-you-want-it/"
-excerpt: "<a href=\"http://www.downes.ca/\">Stephen Downes</a> makes some <a href=\"http://www.downes.ca/cgi-bin/website/research.cgi?item=1102457199\">observations</a>
+teaser: "<a href=\"http://www.downes.ca/\">Stephen Downes</a> makes some <a href=\"http://www.downes.ca/cgi-bin/website/research.cgi?item=1102457199\">observations</a>
   that are indicative of some of the misunderstandings that surround i-name technology.
   \ I will briefly address two issues in particular:\r\n\r\n<dl>\r\n  <dt><b><i>I-names
   can be free</i></b></dt>\r\n  <dd>While so-called \"global\" i-names cost money,
   there are at least two type of free i-names, and I expect the large majority of
   i-names issued will be free."
+categories:
+- identity
 ---
-
 <a href="http://www.downes.ca/">Stephen Downes</a> makes some <a href="http://www.downes.ca/cgi-bin/website/research.cgi?item=1102457199">observations</a> that are indicative of some of the misunderstandings that surround i-name technology.  I will briefly address two issues in particular:
 
 <dl>
@@ -23,4 +21,3 @@ excerpt: "<a href=\"http://www.downes.ca/\">Stephen Downes</a> makes some <a hre
 </dl>
 
 Our <a href="http://blog.fen.net/archives/000035.html">open APIs</a> and <a href="http://blog.fen.net/archives/000029.html">open source vision</a> are aimed at giving people 100% control over their personal identity information.  It distresses me that there's so much misunderstanding out there.  At the same time, it's understandable, given the identity systems proposed so far (e.g., Passport).  The bottom line (IMO) is that we're really on track to creating the identity services framework that will enable anyone to use it however they want to use it.  That's simply the way it should be.
-

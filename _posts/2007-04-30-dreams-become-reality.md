@@ -2,16 +2,14 @@
 layout: blog
 title: Dreams become Reality
 date: 2007-04-30 22:11:59.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2007/04/30/dreams-become-reality/"
-excerpt: "At the first <a href=\"http://www.civicactions.com/\">CivicActions</a> \"off-site\"
+teaser: "At the first <a href=\"http://www.civicactions.com/\">CivicActions</a> \"off-site\"
   in Amsterdam, we created a vision for ourselves and for the world.  As a new father
   and provider for my small family, and as someone who has unfortunately never broken
   into the real estate market, I was pleased that this item made the list with general
   consensus: <i>\"every member owns their home or has the ability to\"</i>.\r\n\r"
+categories:
+- Roycroft
 ---
-
 At the first <a href="http://www.civicactions.com/">CivicActions</a> "off-site" in Amsterdam, we created a vision for ourselves and for the world.  As a new father and provider for my small family, and as someone who has unfortunately never broken into the real estate market, I was pleased that this item made the list with general consensus: <i>"every member owns their home or has the ability to"</i>.
 
 It seemed like an impossibility just two years ago, yet today our mortgage on a home in Pittsburgh, Penn. was approved.  Granted, we're not buying a house in San Francisco (where a friend bought a single garage spot for $185,000 to go with his purchase of half of a duplex a few years ago) but we're exceedingly happy!  We extensively researched where to buy over the last few years with three primary criteria:
@@ -45,4 +43,3 @@ Elaine joined the PopCity staff writing a bi-weekly article as <a href="http://w
 
 <strong>Update 22 December 2008:</strong>
 The High School renovation took <a href="http://www.reallebo.com/2009/12/high-school-renovation-takes-big-step.html">a big step forward</a> today with a strong possibility of including a LEED Silver certification!
-

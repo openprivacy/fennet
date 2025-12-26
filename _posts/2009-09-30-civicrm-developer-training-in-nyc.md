@@ -2,16 +2,14 @@
 layout: blog
 title: CiviCRM Developer Training in NYC
 date: 2009-09-30 21:17:27.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2009/09/30/civicrm-developer-training-in-nyc/"
-excerpt: "<p>I attended a CiviCRM Developers Training on the 9th and 10th of September
+teaser: "<p>I attended a CiviCRM Developers Training on the 9th and 10th of September
   in New York City along with about 20 others including four members of the CiviCRM
   core team (Donald Lobo, Kurand Jalmi, David Greenberg and Yashodha Chaku).&nbsp;
   The sessions were a mix of existing site presentations, new CiviCRM v3.0 feature
   demonstrations, and hands on configuration and coding.<br />"
+categories:
+- foss
 ---
-
 <p>I attended a CiviCRM Developers Training on the 9th and 10th of September in New York City along with about 20 others including four members of the CiviCRM core team (Donald Lobo, Kurand Jalmi, David Greenberg and Yashodha Chaku).&nbsp; The sessions were a mix of existing site presentations, new CiviCRM v3.0 feature demonstrations, and hands on configuration and coding.<br /><br />CiviCRM 3.0 - <a href="http://civicrm.org/node/646">released October 1st</a> - was at center stage with usability being the star of the show.&nbsp; Configurable drop-down menus at the top of the screen - that play nice with the Drupal (contributed) admin_menu - now provide access to CiviCRM features without taking valuable screen real estate.&nbsp; Reporting - introduced in v2.2.7 - has been enhanced and streamlined.&nbsp; Contact edit screens now show how many records exist under each tab and context-sensitive menus provide access to useful actions from search results.&nbsp; And event templates make the creation of similar event types much easier.<br /><br />There was a presentation of <a href="http://wiki.civicrm.org/confluence/display/CRMDOC/CiviCase+Admin">CiviCase</a> which could be used by groups that have clear and well-defined case management workflow.&nbsp; This feature may not be widely applicable, but in some situations it could potentially provide powerful support.<br /><br />There were several developer sessions and I picked up a few useful tricks for customizing CiviCRM, some highlights of which I share below.</p>
 <p>To customize a template, first view the source and search for ".tpl".&nbsp; Copy that file to e.g., themes/civicrm_custom/CRM/... where the "..." is the same path and name of the template, e.g.:</p>
 <pre>cp ~/workspace/civicrm/v3.0/templates/CRM/Contact/Page/View/UserDashBoard.tpl \<br />    themes/civicrm_custom/CRM/Contact/Page/View/UserDashBoard.tpl</pre>

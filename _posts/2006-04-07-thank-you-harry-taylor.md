@@ -2,16 +2,14 @@
 layout: blog
 title: Thank you Harry Taylor
 date: 2006-04-07 22:49:35.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2006/04/07/thank-you-harry-taylor/"
-excerpt: Yesterday Harry Taylor rose at one of those "Bush town hall" forums in North
+teaser: Yesterday Harry Taylor rose at one of those "Bush town hall" forums in North
   Carolina to tell President Bush that he's never felt more ashamed of the leadership
   of his country. He said Bush has asserted his right to tap phone calls without a
   warrant, to arrest people and hold them without charges and to revoke a woman's
   right to an abortion, among other things.
+categories:
+- politics
 ---
-
 Yesterday Harry Taylor rose at one of those "Bush town hall" forums in North Carolina to tell President Bush that he's never felt more ashamed of the leadership of his country. He said Bush has asserted his right to tap phone calls without a warrant, to arrest people and hold them without charges and to revoke a woman's right to an abortion, among other things.  After President Bush, was told by Harry that  he should be ashamed of his policies, Bush defended the government's secret eavesdropping program Thursday and said he would not apologize for listening in on the phone and e-mail conversations of Americans talking to people with suspected al-Qaida links.
 
 On the same day Attorney General Alberto Gonzales told the House Judiciary Committee that he believes President Bush has the authority to warrantlessly monitor all internal phone (and other electronic communications) within the US--purely domestic contacts.  This position is contrary to Article 4 of the US Constitution which states:

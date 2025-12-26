@@ -2,15 +2,13 @@
 layout: blog
 title: A Community Garden
 date: 2008-05-04 08:17:52.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2008/05/04/a-community-garden/"
-excerpt: I just read an <a href="http://www.nytimes.com/2008/04/20/magazine/20wwln-lede-t.html?ex=1366516800&en=4c931d0a068a2a1a&ei=5124&partner=permalink&exprod=permalink">excellent
+teaser: I just read an <a href="http://www.nytimes.com/2008/04/20/magazine/20wwln-lede-t.html?ex=1366516800&en=4c931d0a068a2a1a&ei=5124&partner=permalink&exprod=permalink">excellent
   article from the New York Times</a> that a colleague sent me (have I mentioned recently
   that I love working for <a href="http://www.civicactions.com/">CivicActions</a>?)
   that has me once again thinking that I want to grow some vegetables.
+categories:
+- Roycroft
 ---
-
 I just read an <a href="http://www.nytimes.com/2008/04/20/magazine/20wwln-lede-t.html?ex=1366516800&en=4c931d0a068a2a1a&ei=5124&partner=permalink&exprod=permalink">excellent article from the New York Times</a> that a colleague sent me (have I mentioned recently that I love working for <a href="http://www.civicactions.com/">CivicActions</a>?) that has me once again thinking that I want to grow some vegetables.  This simple act not only will provide me with excellent, organic food at (once installed) near zero cost, but will also help my mind, body, spirit and community ties, not to mention fixing the tiniest dent in the global warming train wreck. But I have a problem: besides being strongly acidic, my back yard is sloped and heavily shaded, and thus would require a good deal of work to support even a small <a href="http://en.wikipedia.org/wiki/Biointensive">bio (or <i>french</i>) intensive</a> plot.
 
 So my next step will be to poll my community to see if there is shared interest in creating a <a href="http://en.wikipedia.org/wiki/Community_garden">community garden</a>.  What a wonderful project for the high school, though I'd rather it near Foster Elementary - my son's school - so I can easily walk to it ;-)  This makes sense to me, as there are seven elementary schools in Mt Lebanon, so there should be (ultimately) at least five community garden plots.

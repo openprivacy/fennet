@@ -2,17 +2,15 @@
 layout: blog
 title: The Elusive Holy Grail
 date: 2003-06-17 10:54:08.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2003/06/17/the-elusive-holy-grail/"
-excerpt: "First and foremost, there must be a major immediate benefit for the user.
+teaser: "First and foremost, there must be a major immediate benefit for the user.
   \ Persistent online identity - the long-elusive holy grail of \"single sign-on\"
   - offers one such, both for the consumer-oriented and the civic-minded.  But how
   do we get mass acceptance of such a new technology among the civic-minded when it's
   the consumer that such services are being built for?\r\n\r\nOne path is to help
   the average user with managing the most valuable resource they have: their attention."
+categories:
+- identity
 ---
-
 First and foremost, there must be a major immediate benefit for the user.  Persistent online identity - the long-elusive holy grail of "single sign-on" - offers one such, both for the consumer-oriented and the civic-minded.  But how do we get mass acceptance of such a new technology among the civic-minded when it's the consumer that such services are being built for?
 
 One path is to help the average user with managing the most valuable resource they have: their attention.  One way to do this is by creating a personalized news and information service that would provide:
@@ -62,4 +60,3 @@ The first online personalized news system was called 'NewsPeek', a name I chose 
   </ul>
 
 Alas, while NewsPeek is connected to live newsfeeds, it is a demo and the actual implementation of these capabilities falls far short of what we need.
-

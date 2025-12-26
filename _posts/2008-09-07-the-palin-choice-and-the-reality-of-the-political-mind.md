@@ -2,18 +2,16 @@
 layout: blog
 title: The Palin Choice and the Reality of the Political Mind
 date: 2008-09-07 07:51:47.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2008/09/07/the-palin-choice-and-the-reality-of-the-political-mind/"
-excerpt: "A fellow alumnus of mine, George Lakoff argues that the Republican choice
+teaser: "A fellow alumnus of mine, George Lakoff argues that the Republican choice
   of Palin makes total sense if you truly understand the strategy of the Republicans
   in this election.\r\n\r\nFound on <a href=\"http://mamasforobama.net/democrats-and-reality-political-mind\">mamasforobama.net</a>\r\n<blockquote>\r\n<b>The
   Palin Choice and the Reality of the Political Mind</b>\r\nby George Lakoff\r\n\r\nThis
   election matters because of realities-the realities of global warming, the economy,
   the Middle East, nuclear proliferation, civil liberties, species extinction, poverty
   here and around the world, and on and on."
+categories:
+- politics
 ---
-
 A fellow alumnus of mine, George Lakoff argues that the Republican choice of Palin makes total sense if you truly understand the strategy of the Republicans in this election.
 
 Found on <a href="http://mamasforobama.net/democrats-and-reality-political-mind">mamasforobama.net</a>
@@ -63,4 +61,3 @@ Our job is to bring external realities together with the reality of the politica
 </blockquote>
 
 <em>George Lakoff is the author of The Political Mind: Why You Can't Understand 20th Century Politics With an 18th Century Brain</em>
-

@@ -2,17 +2,15 @@
 layout: blog
 title: Indymedia petition
 date: 2004-11-01 22:39:13.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2004/11/01/indymedia-petition/"
-excerpt: |-
+teaser: |-
   From: http://solidarity.indymedia.org.uk/ :
 
   <blockquote><i>
 
   Indymedia is a global media network that provides open space to publish challenging, independent reporting, with emphasis on political and social justice issues.
+categories:
+- politics
 ---
-
 From: http://solidarity.indymedia.org.uk/ :
 
 <blockquote><i>

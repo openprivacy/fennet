@@ -1,0 +1,11 @@
+---
+layout: quote
+title: The Adventure shell
+author: Dave Morrison
+author_bio:
+date: 2003-06-13 08:06:40.000000000 -04:00
+permalink: "/quotes/the-adventure-shell/"
+---
+<pre>    Welcome to the Adventure shell!
+You are in a maze of twisty passages, all alike&gt;<b> fight shell</b>
+The shell hits! -more- you lose a file</pre>

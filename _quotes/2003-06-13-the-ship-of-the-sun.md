@@ -1,0 +1,9 @@
+---
+layout: quote
+title: The Ship of The Sun
+author: Egyptian Book of The Dead
+author_bio:
+date: 2003-06-13 08:06:40.000000000 -04:00
+permalink: "/quotes/the-ship-of-the-sun/"
+---
+<p>In the Land of The Dark, The Ship of The Sun is pulled by The Grateful Dead</p>

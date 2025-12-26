@@ -2,10 +2,7 @@
 layout: blog
 title: 2idi's Open Source Vision
 date: 2004-10-28 22:32:04.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2004/10/28/2idi-s-open-source-vision/"
-excerpt: "With <a href=\"http://idcommons.net/press/iname-launch-2004-10-25.html\">
+teaser: "With <a href=\"http://idcommons.net/press/iname-launch-2004-10-25.html\">
   Identity Commons going live</a> this past Monday, I finally had a moment to breathe
   and write a bit about our business model, which depends upon our software being
   open source and available.\r\n\r\nAt <a href=\"http://2idi.com\">2idi</a> (disclaimer:
@@ -13,8 +10,9 @@ excerpt: "With <a href=\"http://idcommons.net/press/iname-launch-2004-10-25.html
   control over their personal information.\r\n\r\nWe are basing our technology on
   a new, open (OASIS) standard called XRI that provides, among other things, data
   portability."
+categories:
+- identity
 ---
-
 With <a href="http://idcommons.net/press/iname-launch-2004-10-25.html"> Identity Commons going live</a> this past Monday, I finally had a moment to breathe and write a bit about our business model, which depends upon our software being open source and available.
 
 At <a href="http://2idi.com">2idi</a> (disclaimer: I am a co-founder) we are building open source software to give people complete control over their personal information.
@@ -30,4 +28,3 @@ Our goal is to make this technology so safe that even we - the owners of this sy
 Such trust and safety offers unparalleled opportunities for matching, social networking, cooperation and true, permission-driven (I'm going to use the M-word) marketing in ways as yet unavailable without total loss of control over one's personal information.
 
 We believe that this initiative is not only good for the earth and its inhabitants, but also has a very real potential to be financially rewarding for everyone involved.
-

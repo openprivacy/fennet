@@ -1,0 +1,29 @@
+---
+layout: default
+title: Quotes
+---
+
+<p>Total quotes: {{ site.quotes | size }}</p>
+
+<h1>Quotes</h1>
+
+{% for quote in site.quotes %}
+  <article class="quote-summary">
+    <blockquote>
+      {{ quote.content }}
+    </blockquote>
+
+    {% if quote.author %}
+      <p class="quote-author">
+        — {{ quote.author }}
+      </p>
+    {% endif %}
+
+    {% if quote.citation %}
+      <p class="quote-citation">
+        {{ quote.citation }}
+      </p>
+    {% endif %}
+  </article>
+  <hr>
+{% endfor %}

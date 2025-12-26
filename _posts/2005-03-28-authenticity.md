@@ -2,17 +2,15 @@
 layout: blog
 title: Authenticity
 date: 2005-03-28 10:07:12.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2005/03/28/authenticity/"
-excerpt: |-
+teaser: |-
   I haven't blogged for over a month, so here's a random rant to try to kick start this for me again...
 
   Since the Xerox machine, people have been able to make easy copies of "the news," but forgery was tough as (say) the New York Times had a distinctive type face and "feel" to it.
 
   Now with the Internet, it's trivial to make forgeries.  (Phishing attacks work by creating convincing forgeries of trusted web sites.)  It's deep within my philosophy that anything that can be reduced to bits (what I generically call "software") should be free.
+categories:
+- identity
 ---
-
 I haven't blogged for over a month, so here's a random rant to try to kick start this for me again...
 
 Since the Xerox machine, people have been able to make easy copies of "the news," but forgery was tough as (say) the New York Times had a distinctive type face and "feel" to it.

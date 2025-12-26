@@ -2,17 +2,15 @@
 layout: blog
 title: Virtual Rights
 date: 2004-04-21 08:59:15.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2004/04/21/virtual-rights/"
-excerpt: "Jaco Aizenman just wrote me via the Anonymity group of orkut asking for\r\n\r\n<blockquote>\r\n
+teaser: "Jaco Aizenman just wrote me via the Anonymity group of orkut asking for\r\n\r\n<blockquote>\r\n
   \       any comments you may have on Virtual Rights and Virtual Identity. \r\n        <p>\r\n
   \       Details on: <a href=\"http://www.nephridium.org/virtualrights/\">\r\n        http://www.nephridium.org/virtualrights/</a>\r\n
   \       </p><p>\r\n        Virtual Rights:\r\n        <ol>\r\n        <li>To have
   a Virtual Identity</li>\r\n        <li>Not to have a Virtual Identity</li>\r\n        </ol>\r\n
   \       </p>"
+categories:
+- identity
 ---
-
 Jaco Aizenman just wrote me via the Anonymity group of orkut asking for
 
 <blockquote>

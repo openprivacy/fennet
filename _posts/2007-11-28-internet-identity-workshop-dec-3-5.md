@@ -2,19 +2,16 @@
 layout: blog
 title: Internet Identity Workshop Dec 3-5
 date: 2007-11-28 11:15:24.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2007/11/28/internet-identity-workshop-dec-3-5/"
-excerpt: "Just finished installing OpenID into the IIW MediaWiki  - please see <a
-  href=\"http://iiw.idcommons.net/\">http://iiw.idcommons.net/</a>\r\n\r\nThis was
-  much harder than it should have been, as there are multiple OpenID plugins that
+teaser: "Just finished installing OpenID into the IIW MediaWiki  - please see <a href=\"http://iiw.idcommons.net/\">http://iiw.idcommons.net/</a>\r\n\r\nThis
+  was much harder than it should have been, as there are multiple OpenID plugins that
   claim to work with MediaWiki, and several of these claim to work with the latest
   <a href=\"http://www.openidenabled.com/\">OpenID-2.0.0-rc5</a> but finally the new
   version 0.7.0 of the <a href=\"http://www.mediawiki.org/wiki/Extension:OpenID\">standard
   MediaWiki OpenID extension</a> fit the bill perfectly after dropping back to the
   v1.2.3 library."
+categories:
+- identity
 ---
-
 Just finished installing OpenID into the IIW MediaWiki  - please see <a href="http://iiw.idcommons.net/">http://iiw.idcommons.net/</a>
 
 This was much harder than it should have been, as there are multiple OpenID plugins that claim to work with MediaWiki, and several of these claim to work with the latest <a href="http://www.openidenabled.com/">OpenID-2.0.0-rc5</a> but finally the new version 0.7.0 of the <a href="http://www.mediawiki.org/wiki/Extension:OpenID">standard MediaWiki OpenID extension</a> fit the bill perfectly after dropping back to the v1.2.3 library.  A million thanks to <code>evanpro</code> and, of course, JanRain.

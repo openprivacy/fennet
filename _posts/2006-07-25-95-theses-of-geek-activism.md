@@ -2,17 +2,15 @@
 layout: blog
 title: 95 Theses of Geek Activism
 date: 2006-07-25 11:17:29.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2006/07/25/95-theses-of-geek-activism/"
-excerpt: "I came across this today, and really enjoyed it: <a href=\"http://www.scienceaddiction.com/2006/07/23/95-theses-of-geek-activism/\">95
+teaser: "I came across this today, and really enjoyed it: <a href=\"http://www.scienceaddiction.com/2006/07/23/95-theses-of-geek-activism/\">95
   Theses of Geek Activism</a>.\r\n\r\nPerhaps it helps that I identify as a <em>hacker</em>
   in the manner described in the first thesis.  <em>Geek Activism</em> is really all
   about being smart, thinking for yourself and not simply accepting what others say
   just because they happen to be on TV or run the corporations or government (the
   differences between these are fading).\r\n\r\nRead them.  Follow the links."
+categories:
+- politics
 ---
-
 I came across this today, and really enjoyed it: <a href="http://www.scienceaddiction.com/2006/07/23/95-theses-of-geek-activism/">95 Theses of Geek Activism</a>.
 
 Perhaps it helps that I identify as a <em>hacker</em> in the manner described in the first thesis.  <em>Geek Activism</em> is really all about being smart, thinking for yourself and not simply accepting what others say just because they happen to be on TV or run the corporations or government (the differences between these are fading).

@@ -2,18 +2,16 @@
 layout: blog
 title: Tea Party Anger
 date: 2010-12-04 18:33:25.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2010/12/04/tea-party-anger/"
-excerpt: "<p>Message to the Tea Party - What took you so long to get angry?<br />\r\n<br
+teaser: "<p>Message to the Tea Party - What took you so long to get angry?<br />\r\n<br
   />\r\nYou didn&#39;t get mad when the Supreme Court stopped a legal recount and
   appointed a President.<br />\r\n<br />\r\nYou didn&#39;t get mad when the Supreme
   Court decided corporations were people that could secretly fund political elections.<br
   />\r\n<br />\r\nYou didn&#39;t get mad when Cheney allowed Energy company officials
   to dictate Energy policy and push us to invade Iraq.<br />\r\n<br />\r\nYou didn&#39;t
   get mad when a covert CIA operative got outed.<br />\r\n<br />\r"
+categories:
+- politics
 ---
-
 <p>Message to the Tea Party - What took you so long to get angry?<br />
 <br />
 You didn&#39;t get mad when the Supreme Court stopped a legal recount and appointed a President.<br />

@@ -2,18 +2,16 @@
 layout: blog
 title: Week Two in Mt. Lebanon
 date: 2007-07-24 01:14:42.000000000 -04:00
+teaser: "It's my second week here at our new house in Pittsburgh, PA on Roycroft Avenue,
+  and much has changed.  Perhaps the best part (for me) is that I'm no longer sleeping
+  on the floor (as I did the first days here).  No, the best part for me is that we're
+  now cooking and eating at home.  No, the best part for me is how much my five-year-old
+  son Steven loves it here.\r\n\r\nWell, OK, there are a lot of \"best parts for me.\"
+  \ Like the fact that this place is ours, and it's coming together into a wonderfully
+  livable place. What a house!"
 categories:
-- blog
-permalink: "/blog/2007/07/24/week-two-in-mt-lebanon/"
-excerpt: "It's my second week here at our new house in Pittsburgh, PA on Roycroft
-  Avenue, and much has changed.  Perhaps the best part (for me) is that I'm no longer
-  sleeping on the floor (as I did the first days here).  No, the best part for me
-  is that we're now cooking and eating at home.  No, the best part for me is how much
-  my five-year-old son Steven loves it here.\r\n\r\nWell, OK, there are a lot of \"best
-  parts for me.\"  Like the fact that this place is ours, and it's coming together
-  into a wonderfully livable place. What a house!"
+- Roycroft
 ---
-
 It's my second week here at our new house in Pittsburgh, PA on Roycroft Avenue, and much has changed.  Perhaps the best part (for me) is that I'm no longer sleeping on the floor (as I did the first days here).  No, the best part for me is that we're now cooking and eating at home.  No, the best part for me is how much my five-year-old son Steven loves it here.
 
 Well, OK, there are a lot of "best parts for me."  Like the fact that this place is ours, and it's coming together into a wonderfully livable place. What a house!  We're all so grateful to be here and excited to help make it everything it can be - and that we want it to be.

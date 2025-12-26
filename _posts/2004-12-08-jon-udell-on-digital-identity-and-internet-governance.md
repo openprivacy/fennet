@@ -2,15 +2,13 @@
 layout: blog
 title: Jon Udell on digital identity and Internet governance
 date: 2004-12-08 10:31:51.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2004/12/08/jon-udell-on-digital-identity-and-internet-governance/"
-excerpt: |-
+teaser: |-
   One of my favorite technology bloggers, Jon Udell, mentioned Identity Commons in <a href="http://weblog.infoworld.com/udell/2004/12/07.html">his blog</a> today.  But even he got a part of the picture wrong.  I don't know how we're going to do it, but we've got to get our message clearer.
 
   John quotes Owen Davis as saying that [global] i-names will be priced similarly to DNS names.  My goal (and I believe Owen shares it) as founder of <a href="http://2idi.com/">2idi.com</a> (the first i-broker) is to provide [community] i-names for free as soon as possible.
+categories:
+- identity
 ---
-
 One of my favorite technology bloggers, Jon Udell, mentioned Identity Commons in <a href="http://weblog.infoworld.com/udell/2004/12/07.html">his blog</a> today.  But even he got a part of the picture wrong.  I don't know how we're going to do it, but we've got to get our message clearer.
 
 John quotes Owen Davis as saying that [global] i-names will be priced similarly to DNS names.  My goal (and I believe Owen shares it) as founder of <a href="http://2idi.com/">2idi.com</a> (the first i-broker) is to provide [community] i-names for free as soon as possible.  While global i-names will continue to cost money, local or <i>community</i> i-names can and will (in most cases) be free.  Basic hosting will be free, too, and the cost of services will tend towards zero.  Furthermore, as the interesting things happen on the <a href="http://www.worldofends.com/">edges of the 'net</a>, delegated community and sub-community i-names will be where all the action is.

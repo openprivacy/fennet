@@ -2,15 +2,13 @@
 layout: blog
 title: Less Databases
 date: 2005-01-11 05:52:28.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2005/01/11/less-databases/"
-excerpt: "Just came across Chis Ceppi's blog posts on <a href=\"http://ceppi.blogs.com/arbitrage/2005/01/more_less_datab.html\">more</a>
+teaser: "Just came across Chis Ceppi's blog posts on <a href=\"http://ceppi.blogs.com/arbitrage/2005/01/more_less_datab.html\">more</a>
   <a href=\"http://ceppi.blogs.com/arbitrage/2004/12/less_databases.html\">Less Databases</a>.
   \ He suggests that:\r\n\r\n<blockquote>\r\n\r\n...some aggregation of identity information
   into centralized systems would be a big step in the right direction."
+categories:
+- identity
 ---
-
 Just came across Chis Ceppi's blog posts on <a href="http://ceppi.blogs.com/arbitrage/2005/01/more_less_datab.html">more</a> <a href="http://ceppi.blogs.com/arbitrage/2004/12/less_databases.html">Less Databases</a>.  He suggests that:
 
 <blockquote>
@@ -26,4 +24,3 @@ Chis seems to think that we can and should trust a very few, highly secure, semi
 Such an i-broker can provide other sites with the ability to access and potentially even cache portions of my personal information, assuming they sign and abide by the specifics of the appropriate <i>data sharing contracts</i>.  Adherence to these social contracts is governed by a mixture of technology and community reputation metrics that each community can define and manage as they see fit.  Such social mechanisms simplify usability and puts the privacy burden on policies and trust federations (which I believe can become very powerful force indeed).
 
 In this way, the number of databases truly drops to one, and as there is just one <i>me</i> - and I am the best authority for any information related to me - it seems natural and normal that I would be in control over my personal information.
-

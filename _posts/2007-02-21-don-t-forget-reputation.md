@@ -2,16 +2,14 @@
 layout: blog
 title: Don't forget Reputation
 date: 2007-02-21 14:02:59.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2007/02/21/don-t-forget-reputation/"
-excerpt: 'Many of us celebrated when it was announced that <a href="http://yro.slashdot.org/article.pl?sid=07/02/18/2033235">AOL
+teaser: 'Many of us celebrated when it was announced that <a href="http://yro.slashdot.org/article.pl?sid=07/02/18/2033235">AOL
   has embraced OpenID</a>.  Does that bring us any closer to the goal of secure, privacy
   protected user-centric digital identity that empowers users, leveling the playing
   field between them and service providers to the great benefit of both?  (OK, that''s
   my goal, but maybe some of you may share it.)  I say: no.'
+categories:
+- identity
 ---
-
 Many of us celebrated when it was announced that <a href="http://yro.slashdot.org/article.pl?sid=07/02/18/2033235">AOL has embraced OpenID</a>.  Does that bring us any closer to the goal of secure, privacy protected user-centric digital identity that empowers users, leveling the playing field between them and service providers to the great benefit of both?  (OK, that's my goal, but maybe some of you may share it.)  I say: no.  In fact, it can and may have just the opposite effect, providing false security and tarnishing the concept of single sign-on (SSO) throughout the, uh, blogosphere.
 
 What's missing is the key element that the <a href="http://wiki.idcommons.net/">Identity Commons</a> was originally created to foster: <i>community</i>.  If I may get metaphysical for a moment, trust starts by knowing yourself, and then extends tenuously outwards from the mind/heart/spirit to those around us that we feel we <i>know</i> and <i>connect</i> with at some level, in some set context.  Let me ask you: does adding 30 million people into your community make you feel all warm and fuzzy?
@@ -43,4 +41,3 @@ Since the profile manager (and community I-Broker) are both maintained by CivicA
 As peer-to-peer OpenID authentication will enable Single Sign-on (SSO), there will be a much lower barrier to entry (and exit) to (from) our client sites.  This will enhance the vitality of each community by enabling members to more easily find where they feel most connected and useful while not being concerned about (re-)joining, who has access to their email address, etc.  Yet the use of a single identity across multiple communities will enhance each user's ability to gain reputation and trust in others that have gained reputation.
 
 The value of CivicActions reputation will have additional use/importance as we start to provide/consume reputation metrics to/from outside communities that we develop peering (trust) relationships with.  Note that no centralized or globally defined namespaces are needed - that can all be done the same way we've always done it - personal and group-mediated introductions at the grassroots.  By providing a sound basis for building trust and accountability, our reputation service can empower a global community that shares our values and helps (us and our clients) move the world forward.
-

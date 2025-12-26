@@ -2,17 +2,15 @@
 layout: blog
 title: copyright strengthens; free speech loses
 date: 2006-04-26 11:21:58.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2006/04/26/copyright-strengthens-free-speech-loses/"
-excerpt: |-
+teaser: |-
   From the virtual desk of Declan McCullagh: <a href="http://news.com.com/2100-1028_3-6064016.html">Congress readies broad new digital copyright bill</a> (CNET):
   <blockquote>
   For the last few years, a coalition of technology companies, academics and computer programmers has been trying to persuade Congress to scale back the Digital Millennium Copyright Act.
 
   Now Congress is preparing to do precisely the opposite.
+categories:
+- politics
 ---
-
 From the virtual desk of Declan McCullagh: <a href="http://news.com.com/2100-1028_3-6064016.html">Congress readies broad new digital copyright bill</a> (CNET):
 <blockquote>
 For the last few years, a coalition of technology companies, academics and computer programmers has been trying to persuade Congress to scale back the Digital Millennium Copyright Act.

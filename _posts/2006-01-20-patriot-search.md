@@ -2,17 +2,15 @@
 layout: blog
 title: PATRIOT Search
 date: 2006-01-20 11:31:03.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2006/01/20/patriot-search/"
-excerpt: |-
+teaser: |-
   <p>
 
   The U.S. Government is suing Google for non-compliance after the DOJ requested Google users' search records.  AOL, MSN and Yahoo all complied with the DOJ requests, which were couched in terms of the fight against child porn.  This is being reported by <a href="http://news.zdnet.com/2100-9588_22-6028701.html">ZDnet</a>, <a href="http://www.bloomberg.com/apps/news?pid=email_us&amp;refer=top_world_news&amp;sid=arCWSKEPoJaE">Bloomberg</a> and other sources.
 
   </p>
+categories:
+- politics
 ---
-
 <p>
 
 The U.S. Government is suing Google for non-compliance after the DOJ requested Google users' search records.  AOL, MSN and Yahoo all complied with the DOJ requests, which were couched in terms of the fight against child porn.  This is being reported by <a href="http://news.zdnet.com/2100-9588_22-6028701.html">ZDnet</a>, <a href="http://www.bloomberg.com/apps/news?pid=email_us&amp;refer=top_world_news&amp;sid=arCWSKEPoJaE">Bloomberg</a> and other sources.

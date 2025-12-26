@@ -1,0 +1,9 @@
+---
+layout: quote
+title: You can believe anything
+author: Solomon Short
+author_bio:
+date: 2003-06-13 08:06:40.000000000 -04:00
+permalink: "/quotes/you-can-believe-anything/"
+---
+<p>You can believe anything you want. The universe is not obliged to keep a straight face.</p>

@@ -53,9 +53,10 @@ plugins:
 #   - vendor/ruby/
 
 # added by fen
+# permalink: pretty
+permalink: /blog/:year/:month/:day/:title/
+
 collections:
   quotes:
     output: true
-
-# permalink: pretty
-permalink: /blog/:year/:month/:day/:title/
+    permalink: /quotes/:name/

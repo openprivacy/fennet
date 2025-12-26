@@ -12,7 +12,7 @@ DB_USER = "root"
 DB_PASS = "root"
 
 # Output directories
-BLOG_DIR  = "_posts"
+BLOG_DIR  = "_blog"
 QUOTE_DIR = "_quotes"
 AUTHOR_FILE = "_data/authors.yml"
 
@@ -65,18 +65,24 @@ blog_query = <<~SQL
   WHERE n.type = 'blog'
 SQL
 
+categories_by_nid = {}
 client.query(blog_query).each do |row|
   date = row["created"].strftime("%Y-%m-%d")
   slug = row["title"].downcase.strip.gsub(/[^a-z0-9]+/, "-")
   filename = "#{BLOG_DIR}/#{date}-#{slug}.md"
 
+  body_text   = (row["body"] || "").strip
+  teaser_text = (row["teaser"] || "").strip
+  categories_by_nid[row["nid"]] ||= []
+  categories  = (categories_by_nid[row["nid"]] || []) + ["blog"]
+
   front_matter = {
     "layout"     => "blog",
     "title"      => row["title"],
     "date"       => row["created"],
-    "categories" => ["blog"],
-    "permalink"  => "/blog/#{row["created"].strftime('%Y/%m/%d')}/#{slug}/",
-    "excerpt"    => row["teaser"]
+    "categories" => categories.uniq,
+    "permalink"  => "/blog/#{date}/#{slug}/",
+    "teaser "    => row["teaser"]
   }
 
   content = <<~MARKDOWN

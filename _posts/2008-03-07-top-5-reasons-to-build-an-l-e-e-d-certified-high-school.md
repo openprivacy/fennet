@@ -2,13 +2,11 @@
 layout: blog
 title: Top 5 Reasons to Build an L.E.E.D. Certified High School
 date: 2008-03-07 22:13:47.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2008/03/07/top-5-reasons-to-build-an-l-e-e-d-certified-high-school/"
-excerpt: "<i>By Rob Papke, Mt. Lebanon Council PTA Environmental Chair</i>\r\n\r\n
+teaser: "<i>By Rob Papke, Mt. Lebanon Council PTA Environmental Chair</i>\r\n\r\n
   \ <ol>\r"
+categories:
+- education
 ---
-
 <i>By Rob Papke, Mt. Lebanon Council PTA Environmental Chair</i>
 
   <ol>

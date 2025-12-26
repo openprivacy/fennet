@@ -2,10 +2,7 @@
 layout: blog
 title: From Baghdad
 date: 2004-10-06 05:36:06.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2004/10/06/from-baghdad/"
-excerpt: |
+teaser: |
   This has been traveling around the net the last few days.  Farnaz Fassihi, a Wall Street Journal reporter sent this frank and bleak look at "the situation" in Iraq in an e-mail to friends:
 
   <blockquote>
@@ -14,8 +11,9 @@ excerpt: |
 
   Farnaz' story has been backed by a <a href="http://www.nypost.com/business/19818.htm">WSJ editor</a> and others (see <a href="http://www.editorandpublisher.com/eandp/columns/pressingissues_display.jsp?vnu_content_id=1000650551">
   Pulling Back the Curtain: What a Top Reporter in Baghdad Really Thinks About the War</a>).
+categories:
+- politics
 ---
-
 This has been traveling around the net the last few days.  Farnaz Fassihi, a Wall Street Journal reporter sent this frank and bleak look at "the situation" in Iraq in an e-mail to friends:
 
 <blockquote>

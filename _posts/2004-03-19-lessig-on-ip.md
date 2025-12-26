@@ -2,16 +2,14 @@
 layout: blog
 title: Lessig on IP
 date: 2004-03-19 08:30:39.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2004/03/19/lessig-on-ip/"
-excerpt: |-
+teaser: |-
   I have fought software patents for years, and am equally appalled at the creeping (creepy?) unlimited enforcement of copyright.  Staford law professor Lawrence Lessig recently had this to say:
 
   <blockquote cite="NewsForge | Lessig: IP protection a business, not cultural, battleground">
   Tuesday sharpened the definition of the ongoing legal struggle to satisfy both proprietary and open source advocates through equitable intellectual property regulations.
+categories:
+- politics
 ---
-
 I have fought software patents for years, and am equally appalled at the creeping (creepy?) unlimited enforcement of copyright.  Staford law professor Lawrence Lessig recently had this to say:
 
 <blockquote cite="NewsForge | Lessig: IP protection a business, not cultural, battleground">

@@ -1,0 +1,9 @@
+---
+layout: quote
+title: Truth decays into beauty
+author: The Laws of Physics
+author_bio:
+date: 2003-06-13 08:06:40.000000000 -04:00
+permalink: "/quotes/truth-decays-into-beauty/"
+---
+<p>Truth decays into beauty, while beauty soon becomes merely charm. Charm ends up as strangeness, and even that doesn't last, but up and down are forever.</p>

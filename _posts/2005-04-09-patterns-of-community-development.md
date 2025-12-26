@@ -2,18 +2,16 @@
 layout: blog
 title: Patterns of Community Development
 date: 2005-04-09 13:18:04.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2005/04/09/patterns-of-community-development/"
-excerpt: I've recently returned to the study of design patterns, originally stemming
+teaser: I've recently returned to the study of design patterns, originally stemming
   from Christopher Alexander's book, <u>A Pattern Language</u>.  While the book concerns
   itself with patterns in physical architecture, software architects embraced the
   concept as they saw patterns in the design of software systems.  The state of the
   art in Computer Science has, in only a few short years, embraced the concept of
   patterns, and with many tools, languages and conferences devoted to software design
   patterns and languages.
+categories:
+- identity
 ---
-
 I've recently returned to the study of design patterns, originally stemming from Christopher Alexander's book, <u>A Pattern Language</u>.  While the book concerns itself with patterns in physical architecture, software architects embraced the concept as they saw patterns in the design of software systems.  The state of the art in Computer Science has, in only a few short years, embraced the concept of patterns, and with many tools, languages and conferences devoted to software design patterns and languages.  But I digress...
 
 In my research, I discovered a set of patterns designed for developing a community (in this particular case, the Jini community) and I found many of the patterns to be remarkable and particularly apropos to what <a href="http://idcommons.net">Identity Commons</a> is striving to create.  When I noticed that one of the authors as Richard Gabriel, I got even more excited, as Dick is sort of a hero of mine, as he was a primary architect of the Common Lisp Object System (CLOS) in the 80's (did I mention that Lisp is my favorite language?).  He's also the author of <a href="http://www.comedia.com/hot/doc/worse.txt">Worse Is Better</a> that I received on a MIT mailing list in 1991.  (I'm still digressing!)

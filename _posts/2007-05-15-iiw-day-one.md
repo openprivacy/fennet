@@ -2,17 +2,15 @@
 layout: blog
 title: IIW, Day One
 date: 2007-05-15 09:07:26.000000000 -04:00
-categories:
-- blog
-permalink: "/blog/2007/05/15/iiw-day-one/"
-excerpt: "<p>\r\n\r\nDay one at the <a href=\"http://www.windley.com/events/iiw2007a/announcement\">Internet
+teaser: "<p>\r\n\r\nDay one at the <a href=\"http://www.windley.com/events/iiw2007a/announcement\">Internet
   Identity Workshop</a>, or IIW2007, began with <a href=\"http://www.eekim.com/blog\">Eugene
   Kim</a> - Chairman-elect of <a href=\"http://wiki.idcommons.net/\">Identity Commons</a>
   <i>(\"2.0\", now with rounded corners),</i> asking those attending their first IIW
   to stand up - over two-thirds of the 150 or so people in the room stood up.  This
   is a great trend - the word is getting out!\r\n\r\n</p>"
+categories:
+- identity
 ---
-
 <p>
 
 Day one at the <a href="http://www.windley.com/events/iiw2007a/announcement">Internet Identity Workshop</a>, or IIW2007, began with <a href="http://www.eekim.com/blog">Eugene Kim</a> - Chairman-elect of <a href="http://wiki.idcommons.net/">Identity Commons</a> <i>("2.0", now with rounded corners),</i> asking those attending their first IIW to stand up - over two-thirds of the 150 or so people in the room stood up.  This is a great trend - the word is getting out!
@@ -41,4 +39,3 @@ What was great was to see the progress in the field, that came from two unexpect
 In the Open Space sessions tomorrow, I expect I'll be leading or co-leading sessions on <i>Why XRI?</i> and <i>Grassroots Reputation</i>.  I'm looking forward to it.
 
 <p>
-

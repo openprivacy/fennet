@@ -2,15 +2,13 @@
 layout: blog
 title: Kerry, please
 date: 2004-11-03 03:20:47.000000000 -05:00
-categories:
-- blog
-permalink: "/blog/2004/11/03/kerry-please/"
-excerpt: |-
+teaser: |-
   I'm trying to get work done (ok, I <i>am</i> getting work done) but I'm also nervous as all get out regarding the results of the election.  Who are these people who can vote for Bush when it's been proven that he's lied to the American public about WMDs, the link between Iraq and al Quaeda not to mention his domestic promises for better health care, schools and jobs?
 
   If Bush wins again, I think that any slack that the rest of the world has given U.S.
+categories:
+- politics
 ---
-
 I'm trying to get work done (ok, I <i>am</i> getting work done) but I'm also nervous as all get out regarding the results of the election.  Who are these people who can vote for Bush when it's been proven that he's lied to the American public about WMDs, the link between Iraq and al Quaeda not to mention his domestic promises for better health care, schools and jobs?
 
 If Bush wins again, I think that any slack that the rest of the world has given U.S. citizens will dry up, as we can be fooled once, but if we vote for the guy a second time we're obviously just not aware of what's really going on.  And since our media is corporate controlled, the sad thing is that most of the American public is not aware of what's going on.
