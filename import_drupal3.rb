@@ -58,8 +58,8 @@ posts.each do |post|
     "title" => post["title"],
     "date" => Time.at(post["created"]),
     "teaser" => post["teaser"],
-    "categories" => cat_list,
-    "permalink" => "/blog/#{date}/#{slug}/"
+    "categories" => cat_list
+#   "permalink" => "/blog/#{date}/#{slug}/"
   }
 
   File.open(filename, "w") do |f|
@@ -75,6 +75,17 @@ puts "Blog posts imported."
 # IMPORT QUOTES
 # ----------------------------------------
 puts "Importing quotes…"
+
+def tags_for_node(db, nid)
+  results = db.query(<<~SQL)
+    SELECT td.name
+    FROM term_node tn
+    JOIN term_data td ON tn.tid = td.tid
+    WHERE tn.nid = #{nid}
+  SQL
+
+  results.map { |r| r["name"] }
+end
 
 quotes = client.query(<<~SQL)
   SELECT n.nid, n.vid, n.title, n.created,
@@ -108,6 +119,9 @@ quotes.each do |q|
   unless q["citation"].to_s.strip.empty?
     front_matter["citation"] = q["citation"]
   end
+
+  tags = tags_for_node(client, q["nid"])
+  front_matter["tags"] = tags unless tags.empty?
 
   File.open(filename, "w") do |f|
     f.puts front_matter.to_yaml

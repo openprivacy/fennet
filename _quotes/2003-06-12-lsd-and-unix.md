@@ -5,5 +5,7 @@ author: Jeremy S. Anderson
 author_bio:
 date: 2003-06-12 08:06:40.000000000 -04:00
 permalink: "/quotes/lsd-and-unix/"
+tags:
+- geeky
 ---
 <p>There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.</p>

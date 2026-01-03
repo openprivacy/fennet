@@ -6,5 +6,8 @@ author_bio:
 date: 2003-06-13 08:06:40.000000000 -04:00
 permalink: "/quotes/washing-one-s-hands/"
 citation: educator (1921-1997)
+tags:
+- freedom
+- philosophy
 ---
 <p>Washing one's hands of the conflict between the powerful and the powerless means to side with the powerful, not to be neutral.</p>

@@ -5,5 +5,7 @@ author: Albert Einstein
 author_bio:
 date: 2003-06-13 08:06:40.000000000 -04:00
 permalink: "/quotes/if-only-i-had-known/"
+tags:
+- philosophy
 ---
 <p>If only I had known, I would have been a locksmith.</p>

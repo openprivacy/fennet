@@ -5,5 +5,7 @@ author: Partnership for a Drug Free America
 author_bio:
 date: 2003-06-13 08:06:40.000000000 -04:00
 permalink: "/quotes/it-was-better-to-lie/"
+tags:
+- random
 ---
 <p>We felt the effects of herb were so dangerous that it was better to lie to the american public to save them rather than tell them the truth...</p>

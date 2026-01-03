@@ -6,5 +6,7 @@ author_bio:
 date: 2003-06-13 08:06:40.000000000 -04:00
 permalink: "/quotes/being-afraid/"
 citation: CFP 1994
+tags:
+- government
 ---
 <p>Being afraid of monolithic organizations especially when they have computers, is like being afraid of really big gorillas especially when they are on fire.</p>

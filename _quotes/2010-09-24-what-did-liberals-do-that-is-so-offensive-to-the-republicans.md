@@ -6,5 +6,7 @@ author_bio:
 date: 2010-09-24 12:02:19.000000000 -04:00
 permalink: "/quotes/what-did-liberals-do-that-is-so-offensive-to-the-republicans/"
 citation: The West Wing
+tags:
+- government
 ---
 <p>Liberals got women the right to vote. Liberals got African-Americans the right to vote. Liberals created Social Security and lifted millions ......of elderly people out of poverty. Liberals ended segregation. Liberals passed the Civil Rights Act, the Voting Rights Act. Liberals created Medicare. Liberals passed the Clean Air Act, the Clean Water Act. What did Conservatives do? They opposed them on every one of those things...every one! So when you try to hurl that label at my feet, &#39;Liberal, &#39; as if it were something to be ashamed of, something dirty, something to run away from, it won&#39;t work, Senator, because I will pick up that label and I will wear it as a badge of honor.</p>

@@ -6,5 +6,7 @@ author_bio:
 date: 2013-01-03 11:04:27.000000000 -05:00
 permalink: "/quotes/no-obvious-deficiencies/"
 citation: 1980 Turing Award Lecture
+tags:
+- geeky
 ---
 <p>There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.</p>

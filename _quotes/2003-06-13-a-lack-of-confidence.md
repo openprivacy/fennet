@@ -5,5 +5,7 @@ author: Doug McLeod
 author_bio:
 date: 2003-06-13 08:06:40.000000000 -04:00
 permalink: "/quotes/a-lack-of-confidence/"
+tags:
+- random
 ---
 <p>I still say a church steeple with a lightning rod on top shows a lack of confidence.</p>

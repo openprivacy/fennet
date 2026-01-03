@@ -5,6 +5,8 @@ author: Dave Morrison
 author_bio:
 date: 2003-06-13 08:06:40.000000000 -04:00
 permalink: "/quotes/the-adventure-shell/"
+tags:
+- geeky
 ---
 <pre>    Welcome to the Adventure shell!
 You are in a maze of twisty passages, all alike&gt;<b> fight shell</b>
