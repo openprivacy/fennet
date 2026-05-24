@@ -10,6 +10,8 @@ teaser: |-
   </p>
 categories:
 - politics
+permalink: "/blog/2005/12/18/we-are-becoming-our-worst-enemy/"
+drupal_nid: 46
 ---
 <p>
 

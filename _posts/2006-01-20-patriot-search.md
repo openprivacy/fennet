@@ -10,6 +10,8 @@ teaser: |-
   </p>
 categories:
 - politics
+permalink: "/blog/2006/01/20/patriot-search/"
+drupal_nid: 47
 ---
 <p>
 

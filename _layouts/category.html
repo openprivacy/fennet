@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1>Blog: {{ page.title }}</h1>
+
+<p><a href="/blog/">← All posts</a> · <a href="/blog/categories/">All categories</a></p>
+
+{% for post in page.posts %}
+  <article class="blog-summary">
+    <h2>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <p class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</p>
+  </article>
+{% endfor %}

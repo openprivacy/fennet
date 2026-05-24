@@ -9,6 +9,8 @@ teaser: "At the first <a href=\"http://www.civicactions.com/\">CivicActions</a> 
   consensus: <i>\"every member owns their home or has the ability to\"</i>.\r\n\r"
 categories:
 - Roycroft
+permalink: "/blog/2007/04/30/dreams-become-reality/"
+drupal_nid: 61
 ---
 At the first <a href="http://www.civicactions.com/">CivicActions</a> "off-site" in Amsterdam, we created a vision for ourselves and for the world.  As a new father and provider for my small family, and as someone who has unfortunately never broken into the real estate market, I was pleased that this item made the list with general consensus: <i>"every member owns their home or has the ability to"</i>.
 

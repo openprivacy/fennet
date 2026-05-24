@@ -11,6 +11,8 @@ teaser: "Black Eyed Peas' will.i.am and director Jesse Dylan, Bob Dylan's son cr
   me - and John Fitzgerald Kennedy was president."
 categories:
 - politics
+permalink: "/blog/2008/02/03/yes-we-can-obama-music-video/"
+drupal_nid: 67
 ---
 Black Eyed Peas' will.i.am and director Jesse Dylan, Bob Dylan's son created this "song" - essentially written by Barack Obama. The lyrics are adapted from his "Yes We Can" speech after the New Hampshire primary. "Yes We Can" was inspired by Cesar Chavez's motto for a United Farm Workers hunger strike in 1972.
 

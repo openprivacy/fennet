@@ -11,6 +11,8 @@ teaser: "Just finished installing OpenID into the IIW MediaWiki  - please see <a
   v1.2.3 library."
 categories:
 - identity
+permalink: "/blog/2007/11/28/internet-identity-workshop-dec-3-5/"
+drupal_nid: 64
 ---
 Just finished installing OpenID into the IIW MediaWiki  - please see <a href="http://iiw.idcommons.net/">http://iiw.idcommons.net/</a>
 

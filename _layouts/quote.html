@@ -8,27 +8,27 @@ layout: default
     {{ content }}
   </blockquote>
 
-  <footer class="quote-meta">
-    {% if page.author %}
-      <p class="quote-author">
-        — {{ page.author }}
-      </p>
-    {% endif %}
+  {% if page.author %}
+    <p class="quote-author">
+      — {{ page.author }}
+    </p>
+  {% endif %}
 
-    {% if page.citation %}
-      <p class="quote-citation">
-        {{ page.citation }}
-      </p>
-    {% endif %}
+  {% if page.citation %}
+    <p class="quote-citation">
+      {{ page.citation }}
+    </p>
+  {% endif %}
 
-    {% if page.categories and page.categories != empty %}
-      <p class="quote-categories">
-        Categories:
-        {% for category in page.categories %}
-          {{ category }}{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
-      </p>
-    {% endif %}
-  </footer>
+  {% if page.tags and page.tags != empty %}
+    <p class="quote-tags">
+      Tags:
+      {% for tag in page.tags %}
+        <a href="{{ '/quotes/tags/' | append: tag | slugify | append: '/' | relative_url }}">
+          {{ tag }}
+        </a>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </p>
+  {% endif %}
 
 </article>

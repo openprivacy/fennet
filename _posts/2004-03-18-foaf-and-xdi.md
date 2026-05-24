@@ -8,6 +8,8 @@ teaser: At the <a href="http://identitycommons.net/">Identity Commons</a> we're 
   Resource Identifiers (XRI)</a>.
 categories:
 - identity
+permalink: "/blog/2004/03/18/foaf-and-xdi/"
+drupal_nid: 16
 ---
 At the <a href="http://identitycommons.net/">Identity Commons</a> we're building a persistent global and/or local identity infrastructure using the OASIS standard for <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=xri">Extensible Resource Identifiers (XRI)</a>.  Coupled with <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=xdi">XRI Data Interchange (XDI)</a> and the powerful <i>link contract</i> mechanism, we are building a system for personal profile control and interchange that rivals FOAF (though once again I have to make the disclaimer that I am no FOAF expert).
 

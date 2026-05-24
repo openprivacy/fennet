@@ -10,6 +10,8 @@ teaser: |-
   Now Congress is preparing to do precisely the opposite.
 categories:
 - politics
+permalink: "/blog/2006/04/26/copyright-strengthens-free-speech-loses/"
+drupal_nid: 52
 ---
 From the virtual desk of Declan McCullagh: <a href="http://news.com.com/2100-1028_3-6064016.html">Congress readies broad new digital copyright bill</a> (CNET):
 <blockquote>

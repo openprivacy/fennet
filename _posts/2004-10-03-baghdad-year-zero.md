@@ -13,6 +13,8 @@ teaser: |-
   Fen
 categories:
 - politics
+permalink: "/blog/2004/10/03/baghdad-year-zero/"
+drupal_nid: 23
 ---
 This is a great article.  This stuff just doesn't appear in mainstream media.  It's an analysis of what's been happening economically and politically in Iraq since the war started.  Long, but IMO, well worth the read.
 

@@ -7,5 +7,7 @@ teaser: Just found this <a href="http://weblog.burningbird.net/fires/001306.htm#
   Bjarnason</a> is also pushing for signed weblogs - very cool!
 categories:
 - identity
+permalink: "/blog/2003/07/02/blogger-signatures/"
+drupal_nid: 7
 ---
 Just found this <a href="http://weblog.burningbird.net/fires/001306.htm#comment6846">thread</a> over at BurningBird.  It appears <a href="http://www.unishade.com/gimle/">Baldur Bjarnason</a> is also pushing for signed weblogs - very cool!

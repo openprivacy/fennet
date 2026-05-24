@@ -8,6 +8,8 @@ teaser: |-
   I work with <a href="http://www.civicactions.com/">CivicActions</a>, and one of the best things about this gig is the lifestyle that it allows me to enjoy.  CivicActions is a small but growing band of technology revolutionaries writing free and open source code for progressive organizations and political campaigns.
 categories:
 - politics
+permalink: "/blog/2005/11/28/right-livlihood/"
+drupal_nid: 44
 ---
 <p>
 

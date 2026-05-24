@@ -5,6 +5,8 @@ date: 2004-07-23 09:28:18.000000000 -04:00
 teaser: "FOAF uses the mbox field as a primary key.  Here's a super-simple FOAF record:\r\n\r\n</p>"
 categories:
 - identity
+permalink: "/blog/2004/07/23/foaf-meets-xri/"
+drupal_nid: 21
 ---
 FOAF uses the mbox field as a primary key.  Here's a super-simple FOAF record:
 

@@ -11,6 +11,8 @@ teaser: "Haven't blogged in a while - I'm just getting used to this - and I feel
   the Dems have in raising money."
 categories:
 - politics
+permalink: "/blog/2003/07/16/spineless-democrats/"
+drupal_nid: 9
 ---
 Haven't blogged in a while - I'm just getting used to this - and I feel I need to practice...
 

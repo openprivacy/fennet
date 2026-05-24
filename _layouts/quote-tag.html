@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<h1>Quotes tagged “{{ page.tag }}”</h1>
+
+{% assign quotes = site.quotes | where_exp: "q", "q.tags contains page.tag" | sort: "date" | reverse %}
+
+{% for quote in quotes %}
+  <blockquote>
+    {{ quote.content }}
+  </blockquote>
+
+  {% if quote.author %}
+    <p>— {{ quote.author }}</p>
+  {% endif %}
+{% endfor %}

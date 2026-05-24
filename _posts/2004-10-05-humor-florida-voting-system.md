@@ -13,6 +13,8 @@ teaser: |-
   </blockquote>
 categories:
 - politics
+permalink: "/blog/2004/10/05/humor-florida-voting-system/"
+drupal_nid: 25
 ---
 Here's an opportunity to try the Florida electronic voting system.
 

@@ -6,6 +6,8 @@ teaser: I've been running my web servers off of a machine in my home office for 
   years (since August 1993).
 categories:
 - random
+permalink: "/blog/2004/04/02/letting-go/"
+drupal_nid: 19
 ---
 I've been running my web servers off of a machine in my home office for eleven years (since August 1993).  Originally it was a 486 DX/66 running NetBSD 0.8 and now it's an Athlon XP-2600 running Debian GNU/Linux.) And I've been running my mail servers off the same box since 1997.
 

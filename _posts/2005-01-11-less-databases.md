@@ -8,6 +8,8 @@ teaser: "Just came across Chis Ceppi's blog posts on <a href=\"http://ceppi.blog
   into centralized systems would be a big step in the right direction."
 categories:
 - identity
+permalink: "/blog/2005/01/11/less-databases/"
+drupal_nid: 36
 ---
 Just came across Chis Ceppi's blog posts on <a href="http://ceppi.blogs.com/arbitrage/2005/01/more_less_datab.html">more</a> <a href="http://ceppi.blogs.com/arbitrage/2004/12/less_databases.html">Less Databases</a>.  He suggests that:
 

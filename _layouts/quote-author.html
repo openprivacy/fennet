@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1>Quotes by {{ page.author_name }}</h1>
+
+<p><a href="/quotes/">← All quotes</a> · <a href="/quotes/authors/">All authors</a></p>
+
+{% assign quotes = site.quotes | where: "author", page.author_name | sort: "date" | reverse %}
+
+{% for quote in quotes %}
+  <article class="quote-summary">
+    <blockquote>
+      {{ quote.content }}
+    </blockquote>
+
+    {% if quote.tags %}
+      <p class="quote-tags">
+        {% for tag in quote.tags %}
+          <a href="/quotes/tags/{{ tag }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </p>
+    {% endif %}
+  </article>
+{% endfor %}

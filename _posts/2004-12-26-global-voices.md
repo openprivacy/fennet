@@ -10,6 +10,8 @@ teaser: Joi Ito <a href="http://joi.ito.com/archives/2004/12/25/seasons_greeting
   <a href="http://cyber.law.harvard.edu/globalvoices/wiki/index.php/Global_Voices_Draft_Manifesto">manifesto</a>".
 categories:
 - identity
+permalink: "/blog/2004/12/26/global-voices/"
+drupal_nid: 35
 ---
 Joi Ito <a href="http://joi.ito.com/archives/2004/12/25/seasons_greetings_and_global_voices.html">wrote today</a> about Global Voices (<a href="http://cyber.law.harvard.edu/globalvoices/">blog</a>, <a href="http://cyber.law.harvard.edu/dyn/globalvoices/wiki/">wiki</a>) which is "a name, an identity, a watchword to ward away the chills of restricted expression. A place for coordinating ideas; a source for inspiration; an optimistic, collaborative <a href="http://cyber.law.harvard.edu/globalvoices/wiki/index.php/Global_Voices_Draft_Manifesto">manifesto</a>".  This is a very cool project and about the best thing I can think of to blog about on a holiday honoring the birth of a person who loved and respected all human beings.
 

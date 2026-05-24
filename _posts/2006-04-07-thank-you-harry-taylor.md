@@ -9,6 +9,8 @@ teaser: Yesterday Harry Taylor rose at one of those "Bush town hall" forums in N
   right to an abortion, among other things.
 categories:
 - politics
+permalink: "/blog/2006/04/07/thank-you-harry-taylor/"
+drupal_nid: 49
 ---
 Yesterday Harry Taylor rose at one of those "Bush town hall" forums in North Carolina to tell President Bush that he's never felt more ashamed of the leadership of his country. He said Bush has asserted his right to tap phone calls without a warrant, to arrest people and hold them without charges and to revoke a woman's right to an abortion, among other things.  After President Bush, was told by Harry that  he should be ashamed of his policies, Bush defended the government's secret eavesdropping program Thursday and said he would not apologize for listening in on the phone and e-mail conversations of Americans talking to people with suspected al-Qaida links.
 

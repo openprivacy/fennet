@@ -16,12 +16,22 @@ client = Mysql2::Client.new(
 
 FileUtils.mkdir_p("_posts")
 FileUtils.mkdir_p("_quotes")
+FileUtils.mkdir_p("_data")
 
 # ----------------------------------------
 # HELPER: SAFE FILENAME
 # ----------------------------------------
 def slugify(title)
   title.downcase.strip.gsub(/[^a-z0-9]+/, "-").gsub(/^-|-$/, "")
+end
+
+# ----------------------------------------
+# HELPER: GET URL ALIAS FOR A NODE
+# ----------------------------------------
+def get_alias(client, nid)
+  result = client.query("SELECT dst FROM url_alias WHERE src = 'node/#{nid}' LIMIT 1")
+  row = result.first
+  row ? row["dst"] : nil
 end
 
 # ----------------------------------------
@@ -48,8 +58,27 @@ posts.each do |post|
 
   cat_list = categories.map(&:first)
 
-  date = Time.at(post["created"]).strftime("%Y-%m-%d")
-  slug = slugify(post["title"])
+  # Get the Drupal URL alias (e.g. "blog/2020/09/28/proposal-congressional-security-clearances")
+  alias_path = get_alias(client, post["nid"])
+
+  if alias_path && alias_path.start_with?("blog/")
+    # Parse date and slug from alias: blog/YYYY/MM/DD/slug
+    parts = alias_path.sub("blog/", "").split("/", 4)
+    if parts.length == 4
+      date = "#{parts[0]}-#{parts[1]}-#{parts[2]}"
+      slug = parts[3]
+    else
+      # Fallback: use alias slug but derive date from timestamp
+      date = Time.at(post["created"]).strftime("%Y-%m-%d")
+      slug = parts.last || slugify(post["title"])
+    end
+    permalink = "/#{alias_path}/"
+  else
+    # No alias found — fall back to generated slug
+    date = Time.at(post["created"]).strftime("%Y-%m-%d")
+    slug = slugify(post["title"])
+    permalink = "/blog/#{date.gsub('-', '/')}/#{slug}/"
+  end
 
   filename = "_posts/#{date}-#{slug}.md"
 
@@ -58,7 +87,9 @@ posts.each do |post|
     "title" => post["title"],
     "date" => Time.at(post["created"]),
     "teaser" => post["teaser"],
-    "categories" => cat_list
+    "categories" => cat_list,
+    "permalink" => permalink,
+    "drupal_nid" => post["nid"]
   }
 
   File.open(filename, "w") do |f|
@@ -75,6 +106,9 @@ puts "Blog posts imported."
 # ----------------------------------------
 puts "Importing quotes…"
 
+# Collect all authors for _data/authors.yml
+all_authors = {}
+
 quotes = client.query(<<~SQL)
   SELECT n.nid, n.vid, n.title, n.created,
          r.body AS quote_text,
@@ -89,9 +123,29 @@ quotes = client.query(<<~SQL)
 SQL
 
 quotes.each do |q|
-  date = Time.at(q["created"]).strftime("%Y-%m-%d")
-  slug = slugify(q["title"])
+  # Get the Drupal URL alias (e.g. "quotes/peace/all-wars-are-fought")
+  alias_path = get_alias(client, q["nid"])
 
+  if alias_path && alias_path.start_with?("quotes/")
+    # Use alias path as permalink
+    permalink = "/#{alias_path}/"
+    # Extract slug from alias (last segment)
+    slug = alias_path.split("/").last
+  else
+    slug = slugify(q["title"])
+    permalink = "/quotes/#{slug}/"
+  end
+
+  # Get taxonomy tags for quotes
+  tags_result = client.query(<<~SQL)
+    SELECT td.name
+    FROM term_node tn
+    JOIN term_data td ON tn.tid = td.tid
+    WHERE tn.nid = #{q["nid"]}
+  SQL
+  tag_list = tags_result.map { |r| r["name"] }
+
+  date = Time.at(q["created"]).strftime("%Y-%m-%d")
   filename = "_quotes/#{date}-#{slug}.md"
 
   front_matter = {
@@ -100,7 +154,9 @@ quotes.each do |q|
     "author" => q["author"],
     "author_bio" => q["author_bio"],
     "date" => Time.at(q["created"]),
-    "permalink" => "/quotes/#{slug}/"
+    "permalink" => permalink,
+    "tags" => tag_list,
+    "drupal_nid" => q["nid"]
   }
 
   # Only include citation if present
@@ -113,7 +169,24 @@ quotes.each do |q|
     f.puts "---"
     f.puts q["quote_text"]
   end
+
+  # Collect author info
+  author_name = q["author"].to_s.strip
+  unless author_name.empty?
+    all_authors[author_name] ||= {
+      "name" => author_name,
+      "bio" => q["author_bio"].to_s.strip,
+      "slug" => slugify(author_name)
+    }
+  end
+end
+
+# Write authors data file
+authors_list = all_authors.values.sort_by { |a| a["name"].downcase }
+File.open("_data/authors.yml", "w") do |f|
+  f.puts authors_list.to_yaml
 end
 
 puts "Quotes imported."
+puts "Authors data written to _data/authors.yml"
 puts "Done."

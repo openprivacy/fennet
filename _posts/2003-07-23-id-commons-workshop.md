@@ -11,6 +11,8 @@ teaser: "Just came back from a great three-day <a href=\"http://www.identitycomm
   / XRI-lite / profile access management all set up in three months."
 categories:
 - identity
+permalink: "/blog/2003/07/23/id-commons-workshop/"
+drupal_nid: 11
 ---
 Just came back from a great three-day <a href="http://www.identitycommons.net/">Identity Commons</a> workshop in Sebastopol.  Lots of great people, and five main projects were defined as essential to getting things rolling:
 

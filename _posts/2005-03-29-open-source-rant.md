@@ -9,6 +9,8 @@ teaser: "The following is a rant on Open Source vs. Free Software, with Java as 
   at pursuing.\r\n\r"
 categories:
 - foss
+permalink: "/blog/2005/03/29/open-source-rant/"
+drupal_nid: 38
 ---
 The following is a rant on Open Source vs. Free Software, with Java as the protagonist.  While I am pragmatic and appreciate what Java offers (fast development, powerful tools, strong support) I have also voiced at times my concerns over its use, particularly within the non-profit and NGO markets that we have been looking at pursuing.
 

@@ -3,27 +3,39 @@ layout: default
 title: Quotes
 ---
 
-<p>Total quotes: {{ site.quotes | size }}</p>
-
 <h1>Quotes</h1>
 
-{% for quote in site.quotes %}
+<nav class="quote-nav">
+  <strong>Tags:</strong>
+  {% assign all_tags = site.quotes | map: "tags" | compact | flatten | uniq | sort %}
+  {% for tag in all_tags %}
+    <a href="/quotes/tags/{{ tag }}/">{{ tag }}</a>{% unless forloop.last %} · {% endunless %}
+  {% endfor %}
+  <br>
+  <strong><a href="/quotes/authors/">Browse by Author</a></strong>
+</nav>
+
+{% assign quotes = site.quotes | sort: "date" | reverse %}
+
+{% for quote in quotes %}
   <article class="quote-summary">
+
     <blockquote>
       {{ quote.content }}
     </blockquote>
 
     {% if quote.author %}
-      <p class="quote-author">
-        — {{ quote.author }}
+      <p>— {{ quote.author }}</p>
+    {% endif %}
+
+    {% if quote.tags %}
+      <p class="quote-tags">
+        {% for tag in quote.tags %}
+          <a href="/quotes/tags/{{ tag }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
       </p>
     {% endif %}
 
-    {% if quote.citation %}
-      <p class="quote-citation">
-        {{ quote.citation }}
-      </p>
-    {% endif %}
   </article>
-  <hr>
 {% endfor %}
+

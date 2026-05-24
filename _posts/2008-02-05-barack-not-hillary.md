@@ -10,6 +10,8 @@ teaser: "Chances are that if you live in the US, you might be voting February 5t
   argument for my fellow Democrats and independents."
 categories:
 - politics
+permalink: "/blog/2008/02/05/barack-not-hillary/"
+drupal_nid: 68
 ---
 Chances are that if you live in the US, you might be voting February 5th. If you are undecided, or if you are leaning toward a candidate who is not Barack Obama, please read the following.
 

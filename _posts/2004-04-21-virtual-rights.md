@@ -10,6 +10,8 @@ teaser: "Jaco Aizenman just wrote me via the Anonymity group of orkut asking for
   \       </p>"
 categories:
 - identity
+permalink: "/blog/2004/04/21/virtual-rights/"
+drupal_nid: 20
 ---
 Jaco Aizenman just wrote me via the Anonymity group of orkut asking for
 

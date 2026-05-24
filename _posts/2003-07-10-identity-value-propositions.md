@@ -7,6 +7,8 @@ teaser: In talking to colleagues about how one can market their data successfull
   use some clarification, or at least some use cases.
 categories:
 - identity
+permalink: "/blog/2003/07/10/identity-value-propositions/"
+drupal_nid: 8
 ---
 In talking to colleagues about how one can market their data successfully and still remain in complete control of it, I see that there are areas that could use some clarification, or at least some use cases.  Here are a couple of example areas designed to show how money can be made in an customer-centric <a href="http://www.identitycommons.net/">Identity Commons</a> profile economy.
 

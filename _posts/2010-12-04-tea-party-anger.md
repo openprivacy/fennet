@@ -11,6 +11,8 @@ teaser: "<p>Message to the Tea Party - What took you so long to get angry?<br />
   get mad when a covert CIA operative got outed.<br />\r\n<br />\r"
 categories:
 - politics
+permalink: "/blog/2010/12/04/tea-party-anger/"
+drupal_nid: 402
 ---
 <p>Message to the Tea Party - What took you so long to get angry?<br />
 <br />

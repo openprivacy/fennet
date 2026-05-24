@@ -9,6 +9,8 @@ teaser: Given the sorts of "reputation" mechanisms (<a href="http://www.technora
   for (e.g.) a PGP signature guaranteeing content and authorship?
 categories:
 - identity
+permalink: "/blog/2003/07/01/secure-blogging/"
+drupal_nid: 6
 ---
 Given the sorts of "reputation" mechanisms (<a href="http://www.technorati.com/">Technorati</a>, etc.) that are springing up in the blogging community, it seems that it would be valuable to have the capability for blogs to be signed by a non-spoofable entity (person or pseudonym).  Does this capability already exist?  Does RSS have tags for (e.g.) a PGP signature guaranteeing content and authorship?  Even beyond, perhaps blog posts could be encrypted so only authorized entities could read them.
 

@@ -11,6 +11,8 @@ teaser: "We're trying out new ways of saying what we do.  Here's one I sent a fr
   people move, etc."
 categories:
 - identity
+permalink: "/blog/2004/03/18/identity-commons/"
+drupal_nid: 17
 ---
 We're trying out new ways of saying what we do.  Here's one I sent a friend this evening...
 

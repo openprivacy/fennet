@@ -10,6 +10,8 @@ teaser: |-
   Indymedia is a global media network that provides open space to publish challenging, independent reporting, with emphasis on political and social justice issues.
 categories:
 - politics
+permalink: "/blog/2004/11/01/indymedia-petition/"
+drupal_nid: 28
 ---
 From: http://solidarity.indymedia.org.uk/ :
 

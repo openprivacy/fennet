@@ -6,6 +6,8 @@ teaser: Finally following up to a blog entry by John Beatty regarding a conversa
   he and I had back in <a href="http://www.planetwork.net/2004conf/">June at Planetwork</a>.
 categories:
 - identity
+permalink: "/blog/2004/07/28/john-beatty-followup/"
+drupal_nid: 22
 ---
 Finally following up to a blog entry by John Beatty regarding a conversation he and I had back in <a href="http://www.planetwork.net/2004conf/">June at Planetwork</a>.  I believe that John unintentionally mis-represented my comments when <a href="http://www.gonesilent.com/~john/blog/archives/000109.html">he wrote</a>:
 

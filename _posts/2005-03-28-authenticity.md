@@ -10,6 +10,8 @@ teaser: |-
   Now with the Internet, it's trivial to make forgeries.  (Phishing attacks work by creating convincing forgeries of trusted web sites.)  It's deep within my philosophy that anything that can be reduced to bits (what I generically call "software") should be free.
 categories:
 - identity
+permalink: "/blog/2005/03/28/authenticity/"
+drupal_nid: 37
 ---
 I haven't blogged for over a month, so here's a random rant to try to kick start this for me again...
 

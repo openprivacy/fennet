@@ -10,6 +10,8 @@ teaser: "<p>\r\n\r\nDay one at the <a href=\"http://www.windley.com/events/iiw20
   is a great trend - the word is getting out!\r\n\r\n</p>"
 categories:
 - identity
+permalink: "/blog/2007/05/15/iiw-day-one/"
+drupal_nid: 62
 ---
 <p>
 

@@ -8,6 +8,8 @@ teaser: |-
   If Bush wins again, I think that any slack that the rest of the world has given U.S.
 categories:
 - politics
+permalink: "/blog/2004/11/03/kerry-please/"
+drupal_nid: 29
 ---
 I'm trying to get work done (ok, I <i>am</i> getting work done) but I'm also nervous as all get out regarding the results of the election.  Who are these people who can vote for Bush when it's been proven that he's lied to the American public about WMDs, the link between Iraq and al Quaeda not to mention his domestic promises for better health care, schools and jobs?
 
