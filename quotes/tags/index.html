@@ -6,14 +6,14 @@ permalink: /quotes/tags/
 
 <h1>Quote Tags</h1>
 
-<p><a href="/quotes/">← All quotes</a></p>
+<p><a href="{{ '/quotes/' | relative_url }}">← All quotes</a></p>
 
 <ul>
 {% assign all_tags = site.quotes | map: "tags" | compact | flatten | group_by_exp: "tag", "tag" %}
 {% assign sorted_tags = all_tags | sort: "name" %}
 {% for tag_group in sorted_tags %}
   <li>
-    <a href="/quotes/tags/{{ tag_group.name }}/">{{ tag_group.name }}</a>
+    <a href="{{ '/quotes/tags/' | append: tag_group.name | append: '/' | relative_url }}">{{ tag_group.name }}</a>
     ({{ tag_group.items.size }})
   </li>
 {% endfor %}

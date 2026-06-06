@@ -1,10 +1,36 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=/blog/">
-    <link rel="canonical" href="/blog/">
-  </head>
-  <body>
-    <p>Redirecting to <a href="/blog/">/blog/</a>…</p>
-  </body>
-</html>
+---
+layout: default
+title: Stream of Consciousness
+---
+
+<h1>Stream of Consciousness</h1>
+
+<nav class="category-nav">
+  <strong>Categories:</strong>
+  {% assign sorted_cats = site.categories | sort %}
+  {% for cat in sorted_cats %}
+    <a href="{{ '/blog/category/' | append: cat[0] | append: '/' | relative_url }}">{{ cat[0] }}</a>{% unless forloop.last %} · {% endunless %}
+  {% endfor %}
+</nav>
+
+{% for post in site.posts %}
+  <article class="blog-summary">
+    <h2>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+
+    <p class="post-meta">
+      {{ post.date | date: "%Y-%m-%d" }}
+    </p>
+
+    {% if post.teaser %}
+      <div class="post-teaser">
+        {{ post.teaser }}
+      </div>
+    {% elsif post.excerpt %}
+      <div class="post-teaser">
+        {{ post.excerpt }}
+      </div>
+    {% endif %}
+  </article>
+{% endfor %}

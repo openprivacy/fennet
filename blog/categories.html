@@ -6,13 +6,13 @@ permalink: /blog/categories/
 
 <h1>Blog Categories</h1>
 
-<p><a href="/blog/">← All posts</a></p>
+<p><a href="{{ '/blog/' | relative_url }}">← All posts</a></p>
 
 <ul>
 {% assign sorted_cats = site.categories | sort %}
 {% for cat in sorted_cats %}
   <li>
-    <a href="/blog/category/{{ cat[0] }}/">{{ cat[0] }}</a>
+    <a href="{{ '/blog/category/' | append: cat[0] | append: '/' | relative_url }}">{{ cat[0] }}</a>
     ({{ cat[1].size }})
   </li>
 {% endfor %}

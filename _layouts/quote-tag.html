@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1>Quotes tagged “{{ page.tag }}”</h1>
-
+<p><a href="{{ '/quotes/' | relative_url }}">← All quotes</a> · <a href="{{ '/quotes/tags/' | relative_url }}">All tags</a></p>
 {% assign quotes = site.quotes | where_exp: "q", "q.tags contains page.tag" | sort: "date" | reverse %}
 
 {% for quote in quotes %}

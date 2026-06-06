@@ -4,7 +4,7 @@ layout: default
 
 <h1>Blog: {{ page.title }}</h1>
 
-<p><a href="/blog/">← All posts</a> · <a href="/blog/categories/">All categories</a></p>
+<p><a href="{{ '/blog/' | relative_url }}">← All posts</a> · <a href="{{ '/blog/categories/' | relative_url }}">All categories</a></p>
 
 {% for post in page.posts %}
   <article class="blog-summary">
