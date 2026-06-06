@@ -5,15 +5,7 @@ title: Quotes
 
 <h1>Quotes</h1>
 
-<nav class="quote-nav">
-  <strong>Tags:</strong>
-  {% assign all_tags = site.quotes | map: "tags" | compact | flatten | uniq | sort %}
-  {% for tag in all_tags %}
-    <a href="{{ '/quotes/tags/' | append: tag | append: '/' | relative_url }}">{{ tag }}</a>{% unless forloop.last %} · {% endunless %}
-  {% endfor %}
-  <br>
-  <strong><a href="{{ '/quotes/authors/' | relative_url }}">Browse by Author</a></strong>
-</nav>
+
 
 {% assign quotes = site.quotes | sort: "date" | reverse %}
 

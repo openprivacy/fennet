@@ -21,22 +21,66 @@
 
 <body>
 
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
   <header class="site-header">
-    <nav class="site-nav">
-      <a href="{{ "/" | relative_url }}">Home</a>
-      <a href="{{ "/blog/" | relative_url }}">Blog</a>
-      <a href="{{ "/quotes/" | relative_url }}">Quotes</a>
-    </nav>
+    <div class="header-inner">
+      <h1 class="site-title"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+      {% if site.description %}
+        <p class="site-description">{{ site.description }}</p>
+      {% endif %}
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ "/" | relative_url }}">Home</a>
+        <a href="{{ "/blog/" | relative_url }}">Blog</a>
+        <a href="{{ "/quotes/" | relative_url }}">Quotes</a>
+        <a href="{{ "/about/" | relative_url }}">About</a>
+      </nav>
+    </div>
   </header>
 
-  <main class="site-content">
-    {{ content }}
-  </main>
+  <div class="site-wrapper">
+    <aside class="sidebar" aria-label="Sidebar navigation">
+
+      <nav class="sidebar-block" aria-label="Blog categories">
+        <h2>Themes</h2>
+        <ul>
+          {% assign sorted_cats = site.categories | sort %}
+          {% for cat in sorted_cats %}
+            <li><a href="{{ '/blog/category/' | append: cat[0] | append: '/' | relative_url }}">{{ cat[0] }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+
+      <nav class="sidebar-block" aria-label="Quote tags">
+        <h2>Quote Tags</h2>
+        <ul>
+          {% assign all_tags = site.quotes | map: "tags" | compact | flatten | uniq | sort %}
+          {% for tag in all_tags %}
+            <li><a href="{{ '/quotes/tags/' | append: tag | append: '/' | relative_url }}">{{ tag }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+
+      <nav class="sidebar-block" aria-label="External links">
+        <h2>Links</h2>
+        <ul>
+          <li><a href="https://civicactions.com/">CivicActions</a></li>
+          <li><a href="http://www.linkedin.com/in/fenlabalme">LinkedIn</a></li>
+          <li><a href="https://github.com/openprivacy">GitHub</a></li>
+          <li><a href="https://github.com/openprivacy/newspeek">NewsPeek</a></li>
+          <li><a href="http://openprivacy.org/">OpenPrivacy</a></li>
+        </ul>
+      </nav>
+
+    </aside>
+
+    <main id="main-content" class="site-content">
+      {{ content }}
+    </main>
+  </div>
 
   <footer class="site-footer">
-    <p>
-      © {{ site.time | date: "%Y" }} {{ site.title }}
-    </p>
+    <p>© {{ site.time | date: "%Y" }} {{ site.title }}</p>
   </footer>
 
 </body>
