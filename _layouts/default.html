@@ -83,5 +83,15 @@
     <p>© {{ site.time | date: "%Y" }} {{ site.title }}</p>
   </footer>
 
+  <script>
+  if (window.innerWidth <= 768) {
+    document.querySelectorAll('.sidebar-block h2').forEach(function(h2) {
+      h2.addEventListener('click', function() {
+        this.parentElement.classList.toggle('open');
+      });
+    });
+  }
+  </script>
+
 </body>
 </html>
