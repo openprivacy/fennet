@@ -9,7 +9,6 @@ _site/
 # Dependencies
 vendor/
 bundle/
-Gemfile.lock
 
 # OS files
 .DS_Store
