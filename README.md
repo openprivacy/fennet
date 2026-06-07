@@ -92,27 +92,12 @@ No loops or pagination inside layouts.
 
 ---
 
-### Tags
-
-* Tags are stored in front matter:
-
-```yaml
-tags:
-  - philosophy
-  - politics
-```
-
-* Jekyll does not auto-generate tag pages — these are created manually
-
----
-
 ## 🪚 Future Improvements
 
-* Auto-generate tag pages
-* Author index pages for quotes
+* Better quote presentation
+* Link to a single quote
 * Quote pagination
-* RSS feeds
-* Client-side search
+* Client-side blog search
 
 ---
 
