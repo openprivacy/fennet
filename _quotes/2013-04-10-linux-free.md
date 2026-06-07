@@ -1,7 +1,7 @@
 ---
 layout: quote
 title: Linux is free
-author: ''
+author: 'Anonymous'
 author_bio:
 date: 2013-04-10 12:59:50.000000000 -04:00
 permalink: "/quotes/geeky/linux-free/"

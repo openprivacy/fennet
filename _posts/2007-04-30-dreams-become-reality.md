@@ -8,7 +8,7 @@ teaser: "At the first <a href=\"http://www.civicactions.com/\">CivicActions</a> 
   into the real estate market, I was pleased that this item made the list with general
   consensus: <i>\"every member owns their home or has the ability to\"</i>.\r\n\r"
 categories:
-- Roycroft
+- roycroft
 permalink: "/blog/2007/04/30/dreams-become-reality/"
 drupal_nid: 61
 ---

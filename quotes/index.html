@@ -5,6 +5,8 @@ title: Quotes
 
 <h1>Quotes</h1>
 
+<p><a href="{{ '/quotes/authors/' | relative_url }}">Browse by Author</a></p>
+
 {% assign quotes = site.quotes | sort: "date" | reverse %}
 
 {% for quote in quotes %}

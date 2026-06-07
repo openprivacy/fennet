@@ -7,7 +7,7 @@ teaser: I just read an <a href="http://www.nytimes.com/2008/04/20/magazine/20wwl
   that I love working for <a href="http://www.civicactions.com/">CivicActions</a>?)
   that has me once again thinking that I want to grow some vegetables.
 categories:
-- Roycroft
+- roycroft
 permalink: "/blog/2008/05/04/community-garden/"
 drupal_nid: 70
 ---

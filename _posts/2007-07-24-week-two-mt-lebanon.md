@@ -10,7 +10,7 @@ teaser: "It's my second week here at our new house in Pittsburgh, PA on Roycroft
   \ Like the fact that this place is ours, and it's coming together into a wonderfully
   livable place. What a house!"
 categories:
-- Roycroft
+- roycroft
 permalink: "/blog/2007/07/24/week-two-mt-lebanon/"
 drupal_nid: 63
 ---

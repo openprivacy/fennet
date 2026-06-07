@@ -10,7 +10,7 @@ teaser: Mt Lebanon and the whole South Hills is about to lose (IMO) one of its m
   anyway) can one escape the bland, unhealthy white-flour breads and muffins, and
   as of Saturday, well, I guess we'll just have to bake our own.
 categories:
-- Roycroft
+- roycroft
 permalink: "/blog/2007/11/29/last-day-great-harvest/"
 drupal_nid: 65
 ---
