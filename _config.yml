@@ -31,6 +31,16 @@ github_username:  openprivacy
 plugins:
   - jekyll-feed
   - jekyll-archives
+  - jekyll-paginate-v2
+
+# Pagination defaults
+pagination:
+  enabled: true
+  per_page: 10
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
 
 # Jekyll Archives - generates category pages for blog posts
 jekyll-archives:

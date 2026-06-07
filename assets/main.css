@@ -258,6 +258,37 @@ article h2 {
   margin: 2rem auto 0;
 }
 
+/* ===== Pagination ===== */
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 2rem 0 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #dfe1e2;
+  font-size: 0.95rem;
+}
+
+.pagination a {
+  text-decoration: none;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid #005ea2;
+  border-radius: 3px;
+  color: #005ea2;
+}
+
+.pagination a:hover,
+.pagination a:focus {
+  background: #005ea2;
+  color: #fff;
+}
+
+.page-info {
+  color: #71767a;
+  font-size: 0.85rem;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
   .site-wrapper {
