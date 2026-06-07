@@ -31,10 +31,25 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Debug - check for config overrides
+        run: |
+          echo "=== Files created by configure-pages ==="
+          find . -name "_config*" | sort
+          cat _config.yml | grep -A3 "pagination"
+          echo "=== Gemfile.lock check ==="
+          grep paginate Gemfile.lock
+          echo "=== Bundle list ==="
+          bundle list | grep paginate
+
       - name: Build with Jekyll
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --trace
         env:
           JEKYLL_ENV: production
+
+      - name: Verify build output
+        run: |
+          echo "Posts in index.html:"
+          grep -c 'blog-summary' _site/index.html || echo "ZERO"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
