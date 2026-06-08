@@ -289,6 +289,42 @@ article h2 {
   font-size: 0.85rem;
 }
 
+/* ===== Search ===== */
+#search-input {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #dfe1e2;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+}
+
+#search-input:focus {
+  outline: 2px solid #005ea2;
+  border-color: #005ea2;
+}
+
+.search-results-list {
+  list-style: none;
+  padding: 0;
+}
+
+.search-results-list li {
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.search-results-list a {
+  font-size: 1.05rem;
+  text-decoration: none;
+}
+
+.search-results-list a:hover {
+  text-decoration: underline;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
   .site-wrapper {
