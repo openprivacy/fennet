@@ -25,7 +25,10 @@
 
   <header class="site-header">
     <div class="header-inner">
-      <h1 class="site-title"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+      <div class="site-branding">
+        <img src="{{ '/assets/broadcatch.gif' | relative_url }}" alt="" class="site-logo">
+        <h1 class="site-title"><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+      </div>
       {% if site.description %}
         <p class="site-description">{{ site.description }}</p>
       {% endif %}
